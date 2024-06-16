@@ -51,12 +51,12 @@ func format_sentence(sentence:String):
 	return "[center]" + formatted_sentence
 
 func load_event(event:String):
-	current_event = event 
-	var event_data = data[current_event]
-	var sentence_text = event_data["Sentence"]
-	var words = Array(event_data["Words"].split(","))
-	var nb_words = int(event_data["Nb_Words"])
-	var links = Array(event_data["Links"].split(","))
+	current_event = data[event]
+	current_event["Event"] = event
+	var sentence_text = current_event["Sentence"]
+	var words = Array(current_event["Words"].split(","))
+	var nb_words = int(current_event["Nb_Words"])
+	var links = Array(current_event["Links"].split(","))
 	free_choices()
 	create_choices(words,links,nb_words) #ajouter conditions comme paramètre
 	sentence.text = format_sentence(sentence_text)
@@ -74,11 +74,11 @@ func load_end(end: String):
 	button_relaunch.link_to.connect(link_to)
 
 func link_to(event:String,word:String):
-	event_choices[current_event] = word
-	if current_event == "1A":
+	event_choices[current_event["Event"]] = word
+	if current_event["Event"] == "1A":
 		used_names.append(word)
 	
-	if event.begins_with("FIN"):
+	if data[event]["Links"] == "":
 		load_end(event)
 	else:
 		load_event(event)
