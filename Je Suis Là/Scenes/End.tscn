@@ -1,9 +1,84 @@
-[gd_scene format=3 uid="uid://bd6dq8sdihipb"]
+[gd_scene load_steps=4 format=3 uid="uid://da2tce85hxypb"]
+
+[ext_resource type="Script" path="res://Scenes/end.gd" id="1_y82v5"]
+[ext_resource type="Texture2D" uid="uid://deg4aw3uwls3c" path="res://images/Annotation 2024-06-16 212641.png" id="2_s767l"]
+[ext_resource type="Texture2D" uid="uid://clwd5dv71vrn3" path="res://images/vote_icon_filled.png" id="3_k2uc1"]
 
 [node name="End" type="Control"]
+custom_minimum_size = Vector2(1152, 648)
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+script = ExtResource("1_y82v5")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 1)
+
+[node name="End_Sentence" type="RichTextLabel" parent="."]
+unique_name_in_owner = true
+layout_mode = 1
+offset_left = 50.0
+offset_top = 38.0
+offset_right = 818.0
+offset_bottom = 270.0
+theme_override_font_sizes/normal_font_size = 30
+bbcode_enabled = true
+text = "Le Front national est un parti fondé par "
+scroll_active = false
+
+[node name="FactContainer" type="VBoxContainer" parent="."]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 42.0
+offset_top = -352.0
+offset_right = 528.0
+grow_vertical = 0
+
+[node name="Image" type="TextureRect" parent="."]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(360, 360)
+layout_mode = 1
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -386.0
+offset_top = -386.0
+grow_horizontal = 0
+grow_vertical = 0
+texture = ExtResource("2_s767l")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="NewRun" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = 313.0
+offset_top = -650.0
+offset_right = 577.0
+offset_bottom = -386.0
+grow_horizontal = 2
+grow_vertical = 0
+icon = ExtResource("3_k2uc1")
+flat = true
+
+[connection signal="button_up" from="NewRun" to="." method="_on_new_run_button_up"]

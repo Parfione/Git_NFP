@@ -1,19 +1,25 @@
 extends Control
 
-const DATA_GM_PATH = "res://DATA_GM.csv"
+const DATA_GM_PATH = "res://data/DATA_GM.csv"
+const DATA_FACT_PATH = "res://data/DATA_FACT.csv"
 const CHOICE_BUTTON_SCENE = preload("res://Scenes/Choicebutton.tscn")
-const END_SCENE = preload("res://Scenes/End.tscn")
+const END_SCENE = preload("res://Scenes/end.tscn")
 
 var data = CSVImporter.ImportCSV(DATA_GM_PATH)
+var fact_data = CSVImporter.ImportCSV(DATA_FACT_PATH)
 var event_choices = {}
 var used_names = []
+var nb_runs
 var current_event = "1A"
+
+@onready var progress_bar = %ProgressBar
 
 @onready var choices_container = %ChoicesContainer
 @onready var sentence = %Sentence
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
+	nb_runs = float(len(Array(data["1A"]["Words"].split(","))))
 	load_event(current_event)
 	
 
@@ -66,12 +72,17 @@ func load_event(event:String):
 		#await get_tree().create_timer(1).timeout
 	#	load_event("1A")
 
-func load_end(end: String): 
-	var end_data = data[end]
+func load_end(end_event: String): 
+	print(end_event)
+	var end_data = data[end_event]
 	# get all data ici
 	# ensuite afficher écran de fin
-	var button_relaunch = END_SCENE.instantiate()
-	button_relaunch.link_to.connect(link_to)
+	
+	var end = END_SCENE.instantiate()
+	add_child(end)
+	end.init(format_sentence(end_data["Sentence"]),end_data,fact_data)
+	end.new_run.connect(new_run)
+	
 
 func link_to(event:String,word:String):
 	event_choices[current_event["Event"]] = word
@@ -82,6 +93,9 @@ func link_to(event:String,word:String):
 		load_end(event)
 	else:
 		load_event(event)
+		
+
+func new_run():
+	progress_bar.value = float(len(used_names)) / nb_runs
+	load_event("1A")
 	
-
-

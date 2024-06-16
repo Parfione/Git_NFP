@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://d1m7ycb1svrwn"]
+
+[ext_resource type="Script" path="res://FactItem.gd" id="1_ksj8v"]
+
+[node name="FactItem" type="RichTextLabel"]
+custom_minimum_size = Vector2(480, 30)
+offset_right = 1.0
+theme_override_font_sizes/normal_font_size = 20
+bbcode_enabled = true
+text = "[url=https://onepiece.fandom.com/fr/wiki/Gol_D._Roger]Fact 2[/url]"
+script = ExtResource("1_ksj8v")
+
+[connection signal="meta_clicked" from="." to="." method="_on_meta_clicked"]
