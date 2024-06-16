@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dmy5cn6mp8w5q"
+
+[deps]
+
+files=["res://DATA_GM.Sentence.translation", "res://DATA_GM.Words.translation", "res://DATA_GM.Nb.translation", "res://DATA_GM.Links.translation", "res://DATA_GM.Conditions.translation"]
+
+source_file="res://DATA_GM.csv"
+dest_files=["res://DATA_GM.Sentence.translation", "res://DATA_GM.Words.translation", "res://DATA_GM.Nb.translation", "res://DATA_GM.Links.translation", "res://DATA_GM.Conditions.translation"]
+
+[params]
+
+compress=true
+delimiter=0

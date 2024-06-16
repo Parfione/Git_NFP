@@ -1,0 +1,29 @@
+[gd_scene load_steps=2 format=3 uid="uid://cidrmt6qgnjqu"]
+
+[ext_resource type="Script" path="res://Scenes/Choicebutton.gd" id="1_a1jah"]
+
+[node name="ChoiceButton" type="Button"]
+custom_minimum_size = Vector2(300, 80)
+size_flags_horizontal = 3
+size_flags_vertical = 3
+theme_override_colors/font_outline_color = Color(0.988235, 0.988235, 0.988235, 0.384314)
+theme_override_constants/outline_size = 4
+theme_override_font_sizes/font_size = 28
+flat = true
+script = ExtResource("1_a1jah")
+
+[node name="Label" type="Label" parent="."]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+theme_override_colors/font_outline_color = Color(0.988235, 0.988235, 0.988235, 0.403922)
+theme_override_constants/outline_size = 4
+theme_override_font_sizes/font_size = 28
+text = "le droit à l’auto-détermination"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 3
+
+[connection signal="button_up" from="." to="." method="_on_button_up"]
