@@ -2,6 +2,7 @@ extends Control
 
 const DATA_GM_PATH = "res://DATA_GM.csv"
 const CHOICE_BUTTON_SCENE = preload("res://Scenes/Choicebutton.tscn")
+const END_SCENE = preload("res://Scenes/End.tscn")
 
 var data = CSVImporter.ImportCSV(DATA_GM_PATH)
 var event_choices = {}
@@ -64,14 +65,23 @@ func load_event(event:String):
 	#if len(choices_container.get_children())==0:
 		#await get_tree().create_timer(1).timeout
 	#	load_event("1A")
-	
+
+func load_end(end: String): 
+	var end_data = data[end]
+	# get all data ici
+	# ensuite afficher écran de fin
+	var button_relaunch = END_SCENE.instantiate()
+	button_relaunch.link_to.connect(link_to)
 
 func link_to(event:String,word:String):
 	event_choices[current_event] = word
 	if current_event == "1A":
 		used_names.append(word)
-		
-	load_event(event)
+	
+	if event.begins_with("FIN"):
+		load_end(event)
+	else:
+		load_event(event)
 	
 
 
