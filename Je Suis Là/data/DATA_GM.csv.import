@@ -6,10 +6,10 @@ uid="uid://dmy5cn6mp8w5q"
 
 [deps]
 
-files=["res://data/DATA_GM.Sentence.translation", "res://data/DATA_GM.Words.translation", "res://data/DATA_GM.Nb.translation", "res://data/DATA_GM.Links.translation", "res://data/DATA_GM.Conditions.translation"]
+files=["res://data/DATA_GM.Sentence.translation", "res://data/DATA_GM.Words.translation", "res://data/DATA_GM.Nb.translation", "res://data/DATA_GM.Links.translation", "res://data/DATA_GM.Conditions.translation", "res://data/DATA_GM.Facts.translation", "res://data/DATA_GM.Img.translation"]
 
 source_file="res://data/DATA_GM.csv"
-dest_files=["res://data/DATA_GM.Sentence.translation", "res://data/DATA_GM.Words.translation", "res://data/DATA_GM.Nb.translation", "res://data/DATA_GM.Links.translation", "res://data/DATA_GM.Conditions.translation"]
+dest_files=["res://data/DATA_GM.Sentence.translation", "res://data/DATA_GM.Words.translation", "res://data/DATA_GM.Nb.translation", "res://data/DATA_GM.Links.translation", "res://data/DATA_GM.Conditions.translation", "res://data/DATA_GM.Facts.translation", "res://data/DATA_GM.Img.translation"]
 
 [params]
 

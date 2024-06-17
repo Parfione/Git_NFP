@@ -6,10 +6,10 @@ uid="uid://dsv1px0cckain"
 
 [deps]
 
-files=["res://data/DATA_FACT.Fact.translation", "res://data/DATA_FACT.Lien.translation"]
+files=["res://data/DATA_FACT.Sentence.translation", "res://data/DATA_FACT.Words.translation", "res://data/DATA_FACT.Nb.translation", "res://data/DATA_FACT.Links.translation", "res://data/DATA_FACT.Conditions.translation", "res://data/DATA_FACT.Facts.translation", "res://data/DATA_FACT.Img.translation"]
 
 source_file="res://data/DATA_FACT.csv"
-dest_files=["res://data/DATA_FACT.Fact.translation", "res://data/DATA_FACT.Lien.translation"]
+dest_files=["res://data/DATA_FACT.Sentence.translation", "res://data/DATA_FACT.Words.translation", "res://data/DATA_FACT.Nb.translation", "res://data/DATA_FACT.Links.translation", "res://data/DATA_FACT.Conditions.translation", "res://data/DATA_FACT.Facts.translation", "res://data/DATA_FACT.Img.translation"]
 
 [params]
 

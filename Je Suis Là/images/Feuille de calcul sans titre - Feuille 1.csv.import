@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://bsuup1s2hb3eg"
+
+[deps]
+
+files=["res://images/Feuille de calcul sans titre - Feuille 1.Sentence.translation", "res://images/Feuille de calcul sans titre - Feuille 1.Words.translation", "res://images/Feuille de calcul sans titre - Feuille 1.Nb.translation", "res://images/Feuille de calcul sans titre - Feuille 1.Links.translation", "res://images/Feuille de calcul sans titre - Feuille 1.Conditions.translation", "res://images/Feuille de calcul sans titre - Feuille 1.Facts.translation", "res://images/Feuille de calcul sans titre - Feuille 1.Img.translation"]
+
+source_file="res://images/Feuille de calcul sans titre - Feuille 1.csv"
+dest_files=["res://images/Feuille de calcul sans titre - Feuille 1.Sentence.translation", "res://images/Feuille de calcul sans titre - Feuille 1.Words.translation", "res://images/Feuille de calcul sans titre - Feuille 1.Nb.translation", "res://images/Feuille de calcul sans titre - Feuille 1.Links.translation", "res://images/Feuille de calcul sans titre - Feuille 1.Conditions.translation", "res://images/Feuille de calcul sans titre - Feuille 1.Facts.translation", "res://images/Feuille de calcul sans titre - Feuille 1.Img.translation"]
+
+[params]
+
+compress=true
+delimiter=0
