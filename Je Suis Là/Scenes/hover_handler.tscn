@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://gokqof834in7"]
+
+[ext_resource type="Script" path="res://HoverHandler.gd" id="1_d2hks"]
+
+[node name="HoverHandler" type="Node"]
+script = ExtResource("1_d2hks")

@@ -1,0 +1,1640 @@
+{
+  "1A": {
+    "Sentence": "Je suis",
+    "Words": "Maë,Malo,Elio.te,Jules,Arthur,Malik,Justine,Elise,Adèle,Rima,Nour,Johnny,Nabil,Ibrahim,Olivier,Pat’,Akahi,Eliane,Marie-Thérèse,Janine,Xavier,Vincent,Bernard,Salomé,Lumi,Adrien,le Grand Schtroumpf,Wissam,Grégoire,Valentin,Jérôme,Ali,Johann,Lucien,Bastien,José,François,Luffy,Naruto,Mikasa,Zinedine,Renaud,Isabelle,Léa,Josiane,Tessa,Jeanne,Ophélie,Nouara,Oksana",
+    "Nb_Words": 3,
+    "Links": "2A,2A,2A,2B,2B,2B,2C,2C,2C,2D,2D,2E,2F,2F,2F,2G,2H,2I1,2I1,2I1,2J,2J,2J,2K,2K,2L,2M,2N,2N,2N,2N,2N,2N,2N,2N,2N,2O,2P,2Q,2R,2S,2T,2U1,2U2,2U,2U,2U,2U,2U,2U",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2A": {
+    "Sentence": "$1A est",
+    "Words": "Non-binaire,pas vraiment un mec,pas vraiment une meuf",
+    "Nb_Words": 3,
+    "Links": "3A,7A2,7A1",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3A": {
+    "Sentence": "Si $1A vote pour",
+    "Words": "le Nouveau Front populaire,le Rassemblement National,les copains de Macron",
+    "Nb_Words": 3,
+    "Links": "4A,5A,6A",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4A": {
+    "Sentence": "Dans les 3 mois, le prénom qu'a choisi $1A sera inscrit sur tous ses papiers d'identité. Réduire chacun à l'identité à laquelle iel est assigné pas d'autres, c'est infliger violence sur violence à celleux qui essayent de s'en émanciper, et de devenir autonome. $1A a voté pour le libre droit à l'auto-détermination des individus !",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F4,F5,F6,F7",
+    "Img": ""
+  },
+  "5A": {
+    "Sentence": "Le Rassemblement National est un parti transphobe et homophobe. Ses cadres nient notre existence. Ses membres s'amusent à nous tuer.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F8,F9",
+    "Img": ""
+  },
+  "6A": {
+    "Sentence": "En sept ans au pouvoir, Macron n'a fait qu'instrumentaliser les luttes LGBT+. Il a mis au sein du débat public l'existence des personnes transgenres, tout en tolérant et encourageant les positions transphobes.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2B": {
+    "Sentence": "Le matin, $1A aime s’acheter",
+    "Words": "un petit pain,un pain au chocolat,une chocolatine",
+    "Nb_Words": 3,
+    "Links": "3B,3B,3B",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3B": {
+    "Sentence": "Après son petit déjeuner, $1A vote",
+    "Words": "blanc,sans conviction,par dépit",
+    "Nb_Words": 3,
+    "Links": "4B,5B,5B",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4B": {
+    "Sentence": "Mais les votes blancs ne sont pas comptabilisés : ils ne servent à rien. Pour que le vote de $1A soit pris en compte, c'est pour le Nouveau Front Populaire qu'il faut voter.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "5B": {
+    "Sentence": "Et si on inventait de nouvelles manières de faire de la politique ? Le Nouveau Front Populaire mettra en place une 6ème République, avec le peuple au coeur du système démocratique.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2C": {
+    "Sentence": "$1A est",
+    "Words": "maman,institutrice",
+    "Nb_Words": 3,
+    "Links": "3C1,3C2",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3C3": {
+    "Sentence": "Si elle a le temps $1A votera",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "4C,9C,10C",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4C": {
+    "Sentence": "« Ouvrir une école c'est éviter vingt ans plus tard d'ouvrir une prison » Victor Hugo",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F19,F20,F21,F22,F23",
+    "Img": ""
+  },
+  "5C": {
+    "Sentence": "$1A vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "6C,7C,8C",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "9C": {
+    "Sentence": "L'éducation dont rêve le RN est sous le contrôle assidu d'une police politique et idéologique. Sans aucun accroissement des moyens prévu.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F24,F25,F26,F27,F28",
+    "Img": ""
+  },
+  "10C": {
+    "Sentence": "Macron laisse l'école dans un état déplorable. Et ce sera pire encore s'il reste au pouvoir.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F29,F30,F31,F32",
+    "Img": ""
+  },
+  "2D": {
+    "Sentence": "$1A est",
+    "Words": "Palestinienne",
+    "Nb_Words": 1,
+    "Links": "3D",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3D": {
+    "Sentence": "$1A vit",
+    "Words": "sous les bombes, en France",
+    "Nb_Words": 2,
+    "Links": "4D,5D",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4D": {
+    "Sentence": "$1A ne se réveillera peut être pas demain. $1A fera partie des trop nombreuses victimes de ce conflit ignoble qui continue de tuer sous la bénédiction des puissances occidentales.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F33,F34,F35,F36",
+    "Img": ""
+  },
+  "5D": {
+    "Sentence": "$1A vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "6D,7D,8D",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "6D": {
+    "Sentence": "La Palestine est un état. Le reconnaître, c'est garantir son droit à se représenter internationalement. C'est un premier pas vers la paix !",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F37,F38,F39,F40,F41",
+    "Img": ""
+  },
+  "7D": {
+    "Sentence": "Le RN a apporté a plusieurs reprises son soutien inconditionnel au gouvernement israélien et au génocide qu'il est en train de commettre.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "8D": {
+    "Sentence": "Après un soutien inconditionnel et durable à l'état d'Israel et au génocide qu'il commet, Macron reste incapable d'agir diplomatiquement pour sanctionner et isoler Netanyahou",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2E": {
+    "Sentence": "$1A veut",
+    "Words": "allumer le feu,avoir l’envie d’avoir envie,ouvrir les portes du pénitencier",
+    "Nb_Words": 3,
+    "Links": "3E,3E,3E",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3E": {
+    "Sentence": "On nous a fait croire que $1A votait",
+    "Words": "Sarkozy,Paul Bismuth",
+    "Nb_Words": 2,
+    "Links": "4E,4E",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4E": {
+    "Sentence": "Alors qu'en fait, il parâit que $1A est encore vivant parmi nous et nos sources racontent qu'il voterait pour le Nouveau Front Populaire.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2F": {
+    "Sentence": "$1A est",
+    "Words": "professeur de philosophie,prof de maths,prof d’histoire",
+    "Nb_Words": 3,
+    "Links": "3F,4F,5F",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2G": {
+    "Sentence": "$1A c’est",
+    "Words": "un flic,un gros con,un agent des forces de l’ordre",
+    "Nb_Words": 3,
+    "Links": "3G,3G,3G",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3G": {
+    "Sentence": "Quand il circule à pied dans la ville, on peut dire que $1A",
+    "Words": "patrouille,circule",
+    "Nb_Words": 2,
+    "Links": "4G,4G",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4G": {
+    "Sentence": "$1A, contre toute attente, il vote",
+    "Words": "Rassemblement National,Reconquête",
+    "Nb_Words": 2,
+    "Links": "5G,5G",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "5G": {
+    "Sentence": "Alors que si $1A votait pour le",
+    "Words": "Nouveau Front populaire,Parti animaliste",
+    "Nb_Words": 2,
+    "Links": "6G,7G",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "6G": {
+    "Sentence": "La police n'était pas vouée à devenir l'organe violent d'un état autoritaire.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F42,F43,F44,F45,F46,F47,F48",
+    "Img": ""
+  },
+  "7G": {
+    "Sentence": "$1A pourrait prendre soin de gros porcs et de petits chiens mignons. \nMais moins bien que s’il avait voté pour le Nouveau Front Populaire.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F49,F50,F51,F52",
+    "Img": ""
+  },
+  "2H": {
+    "Sentence": "$1A est",
+    "Words": "Kanak",
+    "Nb_Words": 1,
+    "Links": "3H",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3H": {
+    "Sentence": "Le père du grand-père de $1A était un esclave. S’il avait pu, il aurait voté pour",
+    "Words": "l’indépendance des peuples,l’égalité de toutes et tous,le droit à l’auto-détermination",
+    "Nb_Words": 3,
+    "Links": "4H,4H,4H",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4H": {
+    "Sentence": "Son ancêtre est mort sans qu’on lui ait reconnu sa liberté. Alors, maintenant $1A vote",
+    "Words": "l’indépendance des peuples,l’égalité de toutes et tous,le droit à l’auto-détermination",
+    "Nb_Words": 3,
+    "Links": "5H,5H,5H",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "5H": {
+    "Sentence": "Mais d’autres sont venu s’installer, coloniser, dominer et son vote ne vaut plus rien. Le 27 Juillet, si $1A vote",
+    "Words": "Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "6H,7H,8H",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "6H": {
+    "Sentence": "Le passé coloniale de la France a laissé des territoires et leurs populations exsangues. Il est grand temps d'essayer de réparer les dégâts et de se prévenir de reproduire la même barbarie à l'infini.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F53,F54,F55,F56,F57,F58",
+    "Img": ""
+  },
+  "7H": {
+    "Sentence": "En Kanaky comme ailleurs, le RN s'est positionné en faveur du désordre. C'est grâce à leurs votes en faveur de l'arrêt du processus de paix que le conflit a débuté.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F62,F63,F64",
+    "Img": ""
+  },
+  "8H": {
+    "Sentence": "En Kanaky comme ailleurs, Macron et ses sbires ont organisé le désordre. C'est eux qui ont décidé de mettre fin à l'arrêt du processus de paix, et qui ont ainsi débuté le conflit.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F59,F60,F61",
+    "Img": ""
+  },
+  "3F": {
+    "Sentence": "Il paraît que la superstructure de la Caverne détermine l’infrastructure de la production des phénomènes. Par conséquent, $1A vote",
+    "Words": "Nouveau Front populaire",
+    "Nb_Words": 1,
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4F": {
+    "Sentence": "(a+b)² =",
+    "Words": "a+b+2ab²,a²+b²",
+    "Nb_Words": 2,
+    "Links": "7F,7F",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "5F": {
+    "Sentence": "Un chapitre que $1A a toujours aimé enseigner, c’est le chapitre du",
+    "Words": "Front Populaire",
+    "Nb_Words": 1,
+    "Links": "6F",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "7F": {
+    "Sentence": "T’es nul en maths, mais tu peux toujours voter",
+    "Words": "Front Populaire",
+    "Nb_Words": 1,
+    "Links": "6F",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "6F": {
+    "Sentence": "« Ouvrir une école c'est éviter vingt ans plus tard d'ouvrir une prison » Victor Hugo",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F65,F66,F67,F68,F69,F70",
+    "Img": ""
+  },
+  "2I": {
+    "Sentence": "$1A a",
+    "Words": "58 ans,60 ans,62 ans",
+    "Nb_Words": 3,
+    "Links": "3I,4I,5I",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3I": {
+    "Sentence": "$1A vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "6I,7I,8I",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4I": {
+    "Sentence": "$1A vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "9I,10I,11I",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "5I": {
+    "Sentence": "$1A vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "12I,13I,14I",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "6I": {
+    "Sentence": "À 58 ans, on devrait être en train de préparer sa retraite. Avec le Nouveau Front Populaire, c'est possible ! La retraite à 60 ans sera instaurée dès 2026.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "7I": {
+    "Sentence": "À 58 ans, on devrait être en train de préparer sa retraite. Avec le RN, la retraite, ce n'est pas avant 64 ans.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "8I": {
+    "Sentence": "À 58 ans, on devrait être en train de préparer sa retraite. Avec Macron, la retraite, ce n'est pas avant 64 ans.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "9I": {
+    "Sentence": "À 60 ans, on devrait pouvoir partir à la retraite. Avec le Nouveau Front Populaire, la retraite sera à 60 dès 2026.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "10I": {
+    "Sentence": "À 60 ans, on devrait pouvoir partir à la retraite. Avec le RN, la retraite ce n'est pas avant 64 ans.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "11I": {
+    "Sentence": "À 60 ans, on devrait pouvoir partir à la retraite. Avec Macron, la retraite ce n'est pas avant 64 ans.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "12I": {
+    "Sentence": "À 62 ans, on devrait déjà être à la retraite. Avec le Nouveau Front Populaire, $1A peut prendre sa retraite dans 15 jours !",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "13I": {
+    "Sentence": "À 62 ans, on devrait déjà être à la retraite. Avec le RN, ce n'est toujours pas assez !",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "14I": {
+    "Sentence": "À 62 ans, on devrait déjà être à la retraite. Avec Macron, ce n'est toujours pas assez !",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2J": {
+    "Sentence": "$1A aimerait bien pouvoir s’acheter un troisième",
+    "Words": "yacht,jet privé,journal d’extrême droite",
+    "Nb_Words": 3,
+    "Links": "3J,3J,3J",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3J": {
+    "Sentence": "Du coup $1A s'achète un troisième $2J et fait voter",
+    "Words": "Rassemblement National,En Marche",
+    "Nb_Words": 2,
+    "Links": "4J,5J",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4J": {
+    "Sentence": "Parce que le RN est le meilleur allié des milliardaires.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F71,F72,F73,F74,F75",
+    "Img": ""
+  },
+  "5J": {
+    "Sentence": "Parce qu’En Marche est le parti des milliardaires",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F76,F77,F78,F79",
+    "Img": ""
+  },
+  "7A": {
+    "Sentence": "$1A vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "8A,9A,10A",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "8A": {
+    "Sentence": "LGBT NFP",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "9A": {
+    "Sentence": "LGBT RN",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "10A": {
+    "Sentence": "LGBT EM",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2K": {
+    "Sentence": "$1A est",
+    "Words": "journaliste,éditorialiste",
+    "Nb_Words": 2,
+    "Links": "3K,3K",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3K": {
+    "Sentence": "$1A a pas vraiment le droit de le dire, mais en vrai, elle vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "4K,5K,6K",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4K": {
+    "Sentence": "Média NFP",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "5K": {
+    "Sentence": "Média RN : privatisation, dissolution du public",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "6K": {
+    "Sentence": "Média EM",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2L": {
+    "Sentence": "$1A est",
+    "Words": "roux,problématique,député",
+    "Nb_Words": 3,
+    "Links": "3L",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3L": {
+    "Sentence": "Du coup, on",
+    "Words": "va militer sur les autres circos,vote quand même pour le Nouveau Front Populaire,le dégagera plus tard",
+    "Nb_Words": 3,
+    "Links": "4L,4L,4L",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4L": {
+    "Sentence": "Votez NFP, on s'engueulera plus tard",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2M": {
+    "Sentence": "$1A ressemble quand même vachement à",
+    "Words": "Karl Marx,Schtroumpf à lunettes sans lunettes,Pacôme Thiellement",
+    "Nb_Words": 3,
+    "Links": "3M,3M,3M",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3M": {
+    "Sentence": "$1A et $2M voteraient pour le Nouveau Front Populaire s’ils existaient vraiment !",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2N": {
+    "Sentence": "$1A est",
+    "Words": "locataire d’un 25 m² à 800e/mois,au chômage,au RSA,patron d’une PME,acteur,chanteur,développeur de jeux vidéo,agriculteur,en situation de handicap",
+    "Nb_Words": 3,
+    "Links": "33N,44N,44N,66N,7N,7N,99N,100N,111N",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3N": {
+    "Sentence": "La moitié du salaire de $1A lui sert à se loger. \nAlors $1A vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "12N,13,14N",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4N": {
+    "Sentence": "Parfois, $1A aimerait avoir une vie meilleure.\nAlors $1A vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "15N,16N,17N",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "6N": {
+    "Sentence": "Le commerce de $1A est en difficulté. \nAlors $1A vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "18N,19N,20N",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "7N": {
+    "Sentence": "Mais la carrière de $1A ne décolle pas vraiment. Alors quand $1A vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "21N,22N,23N",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "9N": {
+    "Sentence": "Alors, entre deux burnouts, $1A vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "24N,25N,26N",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "10N": {
+    "Sentence": "Quand il a fini sa semaine de 60h, $1A vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "27N,28N,29N",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "11N": {
+    "Sentence": "En fait, $1A a surtout l’habitude de devoir se battre pour conserver son autonomie dans une société où la valeur d’un individu se réduit à sa productivité.\nAlors $1A vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "30N,31N,32N",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "12N": {
+    "Sentence": "NFP Logement",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "13N": {
+    "Sentence": "RN Logement",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "14N": {
+    "Sentence": "EM Logement",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "15N": {
+    "Sentence": "NFP RSA/Chômage",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "16N": {
+    "Sentence": "RN RSA/Chômage",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "17N": {
+    "Sentence": "EM RSA/Chômage",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "18N": {
+    "Sentence": "NFP PME",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "19N": {
+    "Sentence": "RN PME",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "20N": {
+    "Sentence": "EM PME",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "21N": {
+    "Sentence": "$1A s’assure du maintien de son régime d’intermittent du spectacle. PROGRAMME NFP CULTURE",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "22N": {
+    "Sentence": "$1A doit stopper sa carrière faut de revenus. PROGRAMME RN CULTURE",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "23N": {
+    "Sentence": "$1A doit stopper sa carrière faut de revenus. PROGRAMME EM CULTURE",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "24N": {
+    "Sentence": "NFP jeux vidéo",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "25N": {
+    "Sentence": "RN jeux vidéo",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "26N": {
+    "Sentence": "LREM jeux vidéo",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "27N": {
+    "Sentence": "NFP Agri",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "28N": {
+    "Sentence": "RN Agri",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "29N": {
+    "Sentence": "LREM Agri",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "30N": {
+    "Sentence": "NFP Handicap",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "31N": {
+    "Sentence": "RN Handicap",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "32N": {
+    "Sentence": "EM Handicap",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "33N": {
+    "Sentence": "C’est pas facile de garder le morale quand",
+    "Words": "on dort dans sa cuisine,on a le cafard,on a des cafards",
+    "Nb_Words": 3,
+    "Links": "3N,3N,3N",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "44N": {
+    "Sentence": "Quand on vit avec 800e/mois pour deux, c’est pas évident de",
+    "Words": "trouver du travail,manger à sa fin,s’acheter une Rolex",
+    "Nb_Words": 3,
+    "Links": "4N,4N,4N",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "66N": {
+    "Sentence": "$1A avait toujours rêvé d’ouvrir",
+    "Words": "un bar à écureuil,la porte du siège des Républicains,une librairie féministe",
+    "Nb_Words": 3,
+    "Links": "6N,6N,6N",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "99N": {
+    "Sentence": "Le mieux quand on fait des jeux vidéo, c’est qu’on peut",
+    "Words": "faire de notre travail un loisir,travailler 75h par semaine,se faire harceler par son patron",
+    "Nb_Words": 3,
+    "Links": "9 N,9 N,9 N",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "100N": {
+    "Sentence": "En ce moment, c’est",
+    "Words": "la récolte des fraises,le temps de cerises,la galère",
+    "Nb_Words": 3,
+    "Links": "10N,10N,10N",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "111N": {
+    "Sentence": "$1A est en situation de handicap. \nBien sûr qu’il",
+    "Words": "adore recevoir l’aide non-sollicitée des passants,rêve d’être productif au travail,voudrait être normal",
+    "Nb_Words": 3,
+    "Links": "11N,11N,11N",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2O": {
+    "Sentence": "$1A habite",
+    "Words": "en Corrèze, en Hollande, aux Pays-Bas",
+    "Nb_Words": 3,
+    "Links": "3O,3O,3O",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3O": {
+    "Sentence": "$1A is",
+    "Words": "to be do,what you want to be do",
+    "Nb_Words": 2,
+    "Links": "4O,4O",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4O": {
+    "Sentence": "Contre toute attente, $1A vote pour",
+    "Words": "le Nouveau Front Populaire",
+    "Nb_Words": 1,
+    "Links": "3L",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2P": {
+    "Sentence": "Plus tard, $1A sera",
+    "Words": "le Seigneur des Pirates,champion de natation,un membre de l’armée révolutionnaire",
+    "Nb_Words": 3,
+    "Links": "3P,3P,3P",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3P": {
+    "Sentence": "S’il avait le droit de vote, $1A voterait pour",
+    "Words": "le Nouveau Front Populaire",
+    "Nb_Words": 1,
+    "Links": "4P",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4P": {
+    "Sentence": "MANGAS FRONT NATIONAL",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2Q": {
+    "Sentence": "Plus tard, $1A sera",
+    "Words": "le prochain Hokage,vendeur de ramens,éleveur de renards",
+    "Nb_Words": 3,
+    "Links": "3Q,3Q,3Q",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3Q": {
+    "Sentence": "S’il avait le droit de se présenter aux élections $1A serait devenu",
+    "Words": "Premier Ministre,Maire d'un village caché de la forêt",
+    "Nb_Words": 2,
+    "Links": "4Q,4Q1",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4Q": {
+    "Sentence": "Mais c’est pas grave parce qu’à la place on aura",
+    "Words": "Mathilde Panot,Le Vieux,Ruffin,Poutou,n’importe qui du moment qu’iel peut défoncer Madara et Bardella",
+    "Nb_Words": 5,
+    "Links": "4P,4P,4P,4P,4P",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2R": {
+    "Sentence": "$1A a fait face à Eren. \nMaintenant c’est à notre de faire face",
+    "Words": "au RN, à Bardella",
+    "Nb_Words": 2,
+    "Links": "4P,3R",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3R": {
+    "Sentence": "Alors oui mais ça casse un peu le slogan en fait. \nParce que Eren ça ressemble vachement à",
+    "Words": "RN, Bardella",
+    "Nb_Words": 2,
+    "Links": "4P,4R",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4R": {
+    "Sentence": "Ben non, toujours pas. \nEnfin tout ça pour dire que $1A elle aurait voté pour",
+    "Words": "le Nouveau Front Populaire",
+    "Nb_Words": 1,
+    "Links": "4P",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2S": {
+    "Sentence": "$1A il a quand même",
+    "Words": "un sacré coup de tête,un front populaire,fait des trucs stylés avec un ballon",
+    "Nb_Words": 3,
+    "Links": "3S,4S,3S",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4S": {
+    "Sentence": "Au moins aussi populaire que",
+    "Words": "le Nouveau Front Populaire",
+    "Nb_Words": 1,
+    "Links": "5S",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3S": {
+    "Sentence": "Et s’il était encore vivant, c’est sûr il voterait pour",
+    "Words": "le Nouveau Front Populaire",
+    "Nb_Words": 1,
+    "Links": "5S",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "5S": {
+    "Sentence": "NFP SPORT",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2T": {
+    "Sentence": "$1A il est",
+    "Words": "toujours debout,assis sur un banc avec toi,assis sur ses convictions",
+    "Nb_Words": 3,
+    "Links": "3T,3T,3T",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3T": {
+    "Sentence": "Si $1A était encore vivant il aurait sûrement appelé à voter pour",
+    "Words": "le Nouveau Front Populaire",
+    "Nb_Words": 1,
+    "Links": "4T",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4T": {
+    "Sentence": "Programme NFP culture et santé prévention alcoolisme",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2U1": {
+    "Sentence": "$1A elle a",
+    "Words": "les yeux bleus,les yeux verts",
+    "Nb_Words": 2,
+    "Links": "2U",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2U2": {
+    "Sentence": "$1A elle est",
+    "Words": "pas à gauche,parisienne,pas à droite",
+    "Nb_Words": 3,
+    "Links": "2U3,2U,2U4",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2U3": {
+    "Sentence": "Mais pour la première fois de sa vie, $1A fera barrage au fascisme et votera pour",
+    "Words": "le Nouveau Front Populaire",
+    "Nb_Words": 1,
+    "Links": "2U6",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2U6": {
+    "Sentence": "Front national fondé par des fasciste",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2U4": {
+    "Sentence": "Du coup, ben $1A elle vote pour",
+    "Words": "le Nouveau Front Populaire",
+    "Nb_Words": 1,
+    "Links": "2U5",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2U5": {
+    "Sentence": "Front Populaire en 1936",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2U": {
+    "Sentence": "$1A est",
+    "Words": "étudiante,infirmière,bi-nationale,femme de ménage,racisée,fatiguée,un abri-bus",
+    "Nb_Words": 3,
+    "Links": "3U1,4U1,5U1,6U1,7U1,8U1,9U1",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3U1": {
+    "Sentence": "En principe, $1A est sensée",
+    "Words": "vivre avec 300e/mois,étudier 35h/semaines,habiter dans 8m²",
+    "Nb_Words": 3,
+    "Links": "3U2,3U2,3U2",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3U2": {
+    "Sentence": "Dans les faits, $1A dépend surtout",
+    "Words": "des banques alimentaires d'urgence,de l'argent de ses parents,de son travail précaire et sous-payé qui l'empêche d'étudier",
+    "Nb_Words": 3,
+    "Links": "3U3,3U3,3U3",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3U3": {
+    "Sentence": "Alors, entre deux partiels, $1A elle vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "3U4,3U5,3U6",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3U4": {
+    "Sentence": "Enseignement sup NFP",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3U5": {
+    "Sentence": "Enseignement sup RN",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3U6": {
+    "Sentence": "Enseignement sup EM",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4U1": {
+    "Sentence": "$1A, elle travaille",
+    "Words": "48h/semaine,pour 1550e/mois",
+    "Nb_Words": 2,
+    "Links": "4U2,4U2",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4U2": {
+    "Sentence": "Entre deux COVID, $1A elle vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "4U3,4U4,4U5",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4U3": {
+    "Sentence": "Hopital NFP",
+    "Words": "",
+    "Nb_Words": 3,
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4U4": {
+    "Sentence": "Hopital RN",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4U5": {
+    "Sentence": "Hopital EM",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "5U1": {
+    "Sentence": "$1A aussi française que toi, mais un peu plus que",
+    "Words": "son grand-père arménien qui s'est battu contre le nazisme,le père de Marine qui a torturé des civils pour le fascisme",
+    "Nb_Words": 2,
+    "Links": "5U2",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "5U2": {
+    "Sentence": "Alors $1A vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "5U3,5U4,5U5",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "5U3": {
+    "Sentence": "Elle vote pour NFP étrangers",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "5U4": {
+    "Sentence": "Elle vote pour RN étrangers",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "5U5": {
+    "Sentence": "Elle vote pour EM étrangers",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "6U1": {
+    "Sentence": "$1A elle lave tes chiottes, pourtant elle a pas le droit",
+    "Words": "d'aller voter,de bénéficier d'aides sociales",
+    "Nb_Words": 2,
+    "Links": "6U2",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "6U2": {
+    "Sentence": "Alors, même si ça suffit pas, on vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "6U3,6U4,6U5",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "6U3": {
+    "Sentence": "NFP étrangers",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "6U4": {
+    "Sentence": "RN étrangers",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "6U5": {
+    "Sentence": "EM étrangers",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "7U1": {
+    "Sentence": "Juste parce qu'elle n'est pas blanche $1A elle",
+    "Words": "se fait contrôler 10 fois plus par la police,se fait refuser des jobs",
+    "Nb_Words": 2,
+    "Links": "7U2,7U2",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "7U2": {
+    "Sentence": "Ca ne réglera pas tous ses problèmes, mais si elle vote",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "7U3,7U4,7U5",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "7U3": {
+    "Sentence": "Racisme NFP",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "7U4": {
+    "Sentence": "Racisme RN",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "7U5": {
+    "Sentence": "Racisme EM",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "8U1": {
+    "Sentence": "Il faut que $1A aille se reposer.\nMais avant, elle veut",
+    "Words": "aller faire un porte à porte,appeler ses potes pour essayer de les convaincre,aller tracter à la sortie du métro",
+    "Nb_Words": 3,
+    "Links": "8U2,8U3,8U4",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "8U2": {
+    "Sentence": "Comment faire du porte à porte",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "8U3": {
+    "Sentence": "Comment tracter",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "8U4": {
+    "Sentence": "Comment coller",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "9U1": {
+    "Sentence": "$1A aime",
+    "Words": "le bruit que fait de la pluie sur son dos,abriter celleux qui en ont besoin,quand les bus viennent s'arrêter devant elle",
+    "Nb_Words": 3,
+    "Links": "9U2,9U2,9U2",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "9U2": {
+    "Sentence": "$1A n'aime pas",
+    "Words": "les nazis,le prix du ticket de bus,les pubs transphobes",
+    "Nb_Words": 3,
+    "Links": "9U3,9U3,9U3",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "9U3": {
+    "Sentence": "Alors $1A aimerait que les usagers des services publics des transports votent pour",
+    "Words": "le Nouveau Front Populaire",
+    "Nb_Words": 1,
+    "Links": "9U4",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "9U4": {
+    "Sentence": "Programme NFP transports",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4Q1": {
+    "Sentence": "$1A est donc probablement Breton.\nMais $1A ne peut pas voter, et à la place on aura",
+    "Words": "Mathilde Panot,Le Vieux,Ruffin,Poutou,n’importe qui du moment qu’iel peut défoncer Madara et Bardella",
+    "Nb_Words": 5,
+    "Links": "4P,4P,4P,4P,4P",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "7A1": {
+    "Sentence": "$1A est",
+    "Words": "pas vraiment un mec non plus",
+    "Nb_Words": "",
+    "Links": "3A1",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "7A2": {
+    "Sentence": "$1A est",
+    "Words": "pas vraiment une meuf non plus",
+    "Nb_Words": "",
+    "Links": "3A1",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3A1": {
+    "Sentence": "$1A aimerait bien",
+    "Words": "sortir des normes de genre,exister sans avoir à se justifier,juste être tranquille comme iel en a envie",
+    "Nb_Words": 3,
+    "Links": "3A,3A,3A",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3C1": {
+    "Sentence": "Tous les jours $1A",
+    "Words": "passe 1h30 de plus que son conjoint à s'occuper de leurs enfants,embauche quelqu'un pour s'occuper de son enfant pendant qu'elle va travailler,galère à jongler entre ses heures supp' et son travail domestique",
+    "Nb_Words": 3,
+    "Links": "3C,3C,3C",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3C": {
+    "Sentence": "Si elle a le temps $1A votera",
+    "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
+    "Nb_Words": 3,
+    "Links": "4C1,9C1,10C1",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "4C1": {
+    "Sentence": "Tant qu'il n'y aura pas d'égalité dans les foyers, les slogans républiquains ne seront que des symboles creux !",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F12,F13,F14,F15",
+    "Img": ""
+  },
+  "9C1": {
+    "Sentence": "Pour les femmes, le Rassemblement National c'est un bond d'un siècle en arrière.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F16,F17,F18",
+    "Img": ""
+  },
+  "10C1": {
+    "Sentence": "",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3C2": {
+    "Sentence": "",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "2I1": {
+    "Sentence": "Parfois, $1A se souvient",
+    "Words": "du temps où elle pouvait appeler ses parents ailleurs que dans ses songes,de ses 40 années à travailler sans s'arrêter",
+    "Nb_Words": 2,
+    "Links": "2I,2I",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  }
+}

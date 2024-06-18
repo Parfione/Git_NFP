@@ -13,3 +13,10 @@ func load_img(name:String):
 		return load(img_path)
 	
 	return FORBIDDEN_ICON
+
+
+func load_JSON(path:String):
+	if !FileAccess.file_exists(path): return {}
+	
+	var file = FileAccess.get_file_as_string(path)
+	return JSON.parse_string(file)

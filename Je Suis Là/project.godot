@@ -18,3 +18,8 @@ config/icon="res://icon.svg"
 [autoload]
 
 Utils="*res://Autoload/Utils.gd"
+CsvImporter="*res://data/CSVImporter.gd"
+
+[gui]
+
+theme/custom="res://default_theme.tres"

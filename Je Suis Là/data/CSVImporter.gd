@@ -1,7 +1,6 @@
 extends Node
-class_name CSVImporter
 
-static func ImportCSV(path:String):
+func ImportCSV(path:String):
 	if !FileAccess.file_exists(path) : return {}
 	var file = FileAccess.open(path,FileAccess.READ)
 	var data = {}

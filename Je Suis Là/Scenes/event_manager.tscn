@@ -13,6 +13,7 @@ grow_vertical = 2
 script = ExtResource("1_bqu6i")
 
 [node name="Background" type="ColorRect" parent="."]
+unique_name_in_owner = true
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
@@ -24,6 +25,7 @@ metadata/_edit_lock_ = true
 
 [node name="ChoicesContainer" type="HBoxContainer" parent="."]
 unique_name_in_owner = true
+modulate = Color(1, 1, 1, 0)
 layout_mode = 1
 anchors_preset = 7
 anchor_left = 0.5
@@ -59,13 +61,13 @@ anchors_preset = 5
 anchor_left = 0.5
 anchor_right = 0.5
 offset_left = -551.5
-offset_top = 54.0
+offset_top = 60.0
 offset_right = 551.5
-offset_bottom = 338.0
+offset_bottom = 344.0
 grow_horizontal = 2
 theme_override_font_sizes/normal_font_size = 40
 bbcode_enabled = true
-text = "[center]Hello World"
+text = "[center][wave freq=3,amp=0.15 connected=1]Hello World"
 scroll_active = false
 
 [node name="ProgressBar" type="ProgressBar" parent="."]
@@ -76,4 +78,17 @@ anchors_preset = 10
 anchor_right = 1.0
 offset_bottom = 27.0
 grow_horizontal = 2
+theme_override_colors/font_outline_color = Color(1, 1, 1, 0.580392)
+theme_override_constants/outline_size = 2
 max_value = 1.0
+step = 0.001
+
+[node name="ClickWall" type="Control" parent="."]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 1
