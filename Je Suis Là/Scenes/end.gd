@@ -5,7 +5,7 @@ signal new_run
 
 const FACT_ITEM_SCENE = preload("res://fact_item.tscn")
 
-const LETTER_DURATION = 0.08
+const LETTER_DURATION = 0.06
 
 @onready var fact_container = %FactContainer
 @onready var end_sentence = %End_Sentence

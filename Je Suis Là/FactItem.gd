@@ -2,9 +2,9 @@ extends RichTextLabel
 
 func init(in_text:String,lien:String):
 	if lien : 
-		text= "[url=%s]%s[/url]" % [lien,in_text]
+		text= "[b][url=%s]%s[/url]" % [lien,in_text]
 	else :
-		text = in_text
+		text = "[b]"+in_text
 
 
 func _on_meta_clicked(meta):

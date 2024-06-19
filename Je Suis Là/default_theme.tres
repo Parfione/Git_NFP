@@ -1,3 +1,45 @@
-[gd_resource type="Theme" format=3 uid="uid://dq6riohcmdnvr"]
+[gd_resource type="Theme" load_steps=5 format=3 uid="uid://dq6riohcmdnvr"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_le8p1"]
+bg_color = Color(0.980392, 0.933333, 0.807843, 1)
+border_color = Color(0.980392, 0.933333, 0.807843, 1)
+border_blend = true
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_ji7so"]
+bg_color = Color(0.976563, 0.936866, 0.907898, 1)
+border_color = Color(0.976471, 0.937255, 0.909804, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_uuf1d"]
+bg_color = Color(0.855469, 0.815368, 0.708435, 1)
+border_color = Color(0.854902, 0.815686, 0.709804, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_kwndh"]
+bg_color = Color(0.488281, 0.427939, 0.267029, 1)
+border_width_left = 4
+border_width_top = 2
+border_width_right = 4
+border_width_bottom = 2
+border_color = Color(0.488281, 0.427939, 0.267029, 1)
+corner_radius_top_left = 4
+corner_radius_top_right = 4
+corner_radius_bottom_right = 4
+corner_radius_bottom_left = 4
 
 [resource]
+VScrollBar/styles/grabber = SubResource("StyleBoxFlat_le8p1")
+VScrollBar/styles/grabber_highlight = SubResource("StyleBoxFlat_ji7so")
+VScrollBar/styles/grabber_pressed = SubResource("StyleBoxFlat_uuf1d")
+VScrollBar/styles/scroll = SubResource("StyleBoxFlat_kwndh")
+VScrollBar/styles/scroll_focus = null

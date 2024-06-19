@@ -1,7 +1,28 @@
-[gd_scene load_steps=3 format=3 uid="uid://cidrmt6qgnjqu"]
+[gd_scene load_steps=5 format=3 uid="uid://cidrmt6qgnjqu"]
 
 [ext_resource type="Script" path="res://Scenes/Choicebutton.gd" id="1_a1jah"]
 [ext_resource type="PackedScene" uid="uid://gokqof834in7" path="res://Scenes/hover_handler.tscn" id="2_ebj0f"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_ruv7s"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_eo0t4"]
+bg_color = Color(1, 1, 1, 1)
+border_width_left = 8
+border_width_top = 8
+border_width_right = 8
+border_width_bottom = 8
+border_color = Color(0.765625, 0.765625, 0.765625, 1)
+border_blend = true
+corner_radius_top_left = 16
+corner_radius_top_right = 16
+corner_radius_bottom_right = 16
+corner_radius_bottom_left = 16
+expand_margin_left = 6.0
+expand_margin_top = 6.0
+expand_margin_right = 6.0
+expand_margin_bottom = 6.0
+shadow_color = Color(0, 0, 0, 0.160784)
+shadow_offset = Vector2(2, 2)
 
 [node name="ChoiceButton" type="Button"]
 custom_minimum_size = Vector2(300, 80)
@@ -10,8 +31,23 @@ size_flags_vertical = 3
 theme_override_colors/font_outline_color = Color(0.988235, 0.988235, 0.988235, 0.384314)
 theme_override_constants/outline_size = 4
 theme_override_font_sizes/font_size = 28
+theme_override_styles/focus = SubResource("StyleBoxEmpty_ruv7s")
 flat = true
 script = ExtResource("1_a1jah")
+
+[node name="PanelBG" type="Panel" parent="."]
+unique_name_in_owner = true
+self_modulate = Color(0.784314, 0.784314, 0.784314, 0.72549)
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = 6.0
+offset_bottom = 6.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_eo0t4")
 
 [node name="Label" type="Label" parent="."]
 unique_name_in_owner = true
@@ -20,8 +56,13 @@ layout_mode = 0
 offset_top = 6.0
 offset_right = 300.0
 offset_bottom = 87.0
-theme_override_colors/font_outline_color = Color(0.988235, 0.988235, 0.988235, 0.403922)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.2)
+theme_override_colors/font_outline_color = Color(1, 1, 1, 0.615686)
+theme_override_constants/shadow_offset_x = 1
+theme_override_constants/shadow_offset_y = 1
 theme_override_constants/outline_size = 4
+theme_override_constants/shadow_outline_size = 2
+theme_override_constants/line_spacing = 2
 theme_override_font_sizes/font_size = 28
 text = "le droit à l’auto-détermination"
 horizontal_alignment = 1

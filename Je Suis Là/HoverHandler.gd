@@ -4,10 +4,13 @@ extends Node
 @export var SCALE_MULT = Vector2(1.05,1.05)
 
 var parent : Control
+var setup := false
 var base_pos : Vector2
 var base_scale : Vector2
 
 var tween : Tween
+
+var mouse_on := false
 
 func _ready():
 	if !get_parent() is Control: return
@@ -15,12 +18,17 @@ func _ready():
 	parent.mouse_entered.connect(_on_mouse_entered)
 	parent.mouse_exited.connect(_on_mouse_exited)
 	parent.tree_exiting.connect(queue_free)
-	await get_tree().process_frame
-	base_pos = parent.position
-	base_scale = parent.scale
-	parent.pivot_offset = parent.size*0.5
 
 func _on_mouse_entered():
+	mouse_on = true
+	if !parent.is_inside_tree() or !is_inside_tree(): return
+	if !setup:
+		await get_tree().create_timer(0.01).timeout
+		setup = true
+		base_pos = parent.position
+		base_scale = parent.scale
+		parent.pivot_offset = parent.size*0.5
+	if !mouse_on: return
 	if tween and tween.is_running(): tween.kill()
 	if !is_instance_valid(self) or !is_instance_valid(parent): return
 	tween = create_tween()
@@ -31,8 +39,10 @@ func _on_mouse_entered():
 
 
 func _on_mouse_exited():
+	mouse_on = false
+	if !setup : return
+	if !parent.is_inside_tree() or !is_inside_tree(): return
 	if tween and tween.is_running(): tween.kill()
-	#await get_tree().process_frame
 	if !is_instance_valid(self) or !is_instance_valid(parent): return
 	tween = create_tween()
 	if !is_instance_valid(self) or !is_instance_valid(parent) or !is_instance_valid(tween): return

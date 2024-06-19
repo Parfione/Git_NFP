@@ -363,7 +363,7 @@
     "Sentence": "Il paraît que la superstructure de la Caverne détermine l’infrastructure de la production des phénomènes. Par conséquent, $1A vote",
     "Words": "Nouveau Front populaire",
     "Nb_Words": 1,
-    "Links": "",
+    "Links": "6F",
     "Conditions": "",
     "Facts": "",
     "Img": ""
@@ -612,37 +612,37 @@
     "Img": ""
   },
   "4K": {
-    "Sentence": "Média NFP",
+    "Sentence": "Quand le système médiatique n'est plus sain, c'est la démocratie qui est malade.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F80,F81,F82,F83",
     "Img": ""
   },
   "5K": {
-    "Sentence": "Média RN : privatisation, dissolution du public",
+    "Sentence": "Les médias du groupe Bolloré font déjà campagne pour le RN. Plus le reste des médias sera malléable et concentré dans les mains des puissants, plus facilement ils pourront être contrôlés à leur tour.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F84,F85",
     "Img": ""
   },
   "6K": {
-    "Sentence": "Média EM",
+    "Sentence": "Macron a organisé la main mise idéologique de tous les appareils médiatiques d'état en y nommant à tous les échelons des proches et des collaborateurs.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F87,F88",
     "Img": ""
   },
   "2L": {
     "Sentence": "$1A est",
     "Words": "roux,problématique,député",
     "Nb_Words": 3,
-    "Links": "3L",
+    "Links": "3L1,3L1,3L1",
     "Conditions": "",
     "Facts": "",
     "Img": ""
@@ -657,13 +657,13 @@
     "Img": ""
   },
   "4L": {
-    "Sentence": "Votez NFP, on s'engueulera plus tard",
+    "Sentence": "Votez NFP, on s'engueulera plus tard !",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
     "Facts": "",
-    "Img": ""
+    "Img": "HD_30"
   },
   "2M": {
     "Sentence": "$1A ressemble quand même vachement à",
@@ -675,7 +675,7 @@
     "Img": ""
   },
   "3M": {
-    "Sentence": "$1A et $2M voteraient pour le Nouveau Front Populaire s’ils existaient vraiment !",
+    "Sentence": "$1A et $2M voteraient pour le Nouveau Front Populaire s’ils n'étaient des êtres fictionnels et fantastiques.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -729,7 +729,7 @@
     "Img": ""
   },
   "9N": {
-    "Sentence": "Alors, entre deux burnouts, $1A vote",
+    "Sentence": "Alors entre deux burnouts $1A vote",
     "Words": "Nouveau Front populaire,Rassemblement National,En Marche",
     "Nb_Words": 3,
     "Links": "24N,25N,26N",
@@ -756,43 +756,43 @@
     "Img": ""
   },
   "12N": {
-    "Sentence": "NFP Logement",
+    "Sentence": "Le logement est une nécessité vitale et devrait être un droit.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F93,F94,F95,F96,F97",
     "Img": ""
   },
   "13N": {
-    "Sentence": "RN Logement",
+    "Sentence": "Avec le RN, les loyers seront toujours plus chers et la majrité des logements toujours détenus par une poignée de privilégiés.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F93,F94F98,F99",
     "Img": ""
   },
   "14N": {
-    "Sentence": "EM Logement",
+    "Sentence": "Macron a organisé la concentration des logements dans les mains des foyers les plus riches, tout en baissant drastiquement les moyens pour créer et rénover des logements sociaux.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F93,F94,F100,F101,F102",
     "Img": ""
   },
   "15N": {
-    "Sentence": "NFP RSA/Chômage",
+    "Sentence": "En votant pour le Nouveau Front Populaire, $1A vote pour que plus personne ne soit en dessous du seuil de pauvreté.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F103,F104,F105",
     "Img": ""
   },
   "16N": {
-    "Sentence": "RN RSA/Chômage",
+    "Sentence": "Le RN dénonce sans cesse l'assistanat des plus pauvres, et veut mettre en place des contreparties pour accéder à toutes les aides sociales.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -801,25 +801,25 @@
     "Img": ""
   },
   "17N": {
-    "Sentence": "EM RSA/Chômage",
+    "Sentence": "Macron a tout fait, à coup de réformes successives pour supprimer le statut de chômeur, plutôt que de les aider à trouver un emploi.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F106,F107,F108",
     "Img": ""
   },
   "18N": {
-    "Sentence": "NFP PME",
+    "Sentence": "Les petites et moyennes entreprises sont depuis des années inscrites dans des concurrences déloyales avec les plus grandes entreprises qui ne payent presque plus d'impôt. Il est temps de remédier à ça !",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F109,F110,F111,F112",
     "Img": ""
   },
   "19N": {
-    "Sentence": "RN PME",
+    "Sentence": "Les petites et moyennes entreprises sont depuis des années inscrites dans des concurrences déloyales avec les plus grandes entreprises qui ne payent presque plus d'impôt. Le RN ne changera rien à cette inégalité !",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -828,7 +828,7 @@
     "Img": ""
   },
   "20N": {
-    "Sentence": "EM PME",
+    "Sentence": "Les petites et moyennes entreprises sont depuis des années inscrites dans des concurrences déloyales avec les plus grandes entreprises qui ne payent presque plus d'impôt.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -837,25 +837,25 @@
     "Img": ""
   },
   "21N": {
-    "Sentence": "$1A s’assure du maintien de son régime d’intermittent du spectacle. PROGRAMME NFP CULTURE",
+    "Sentence": "$1A s’assure du maintien de son régime d’intermittent du spectacle.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F113,F114,F115",
     "Img": ""
   },
   "22N": {
-    "Sentence": "$1A doit stopper sa carrière faut de revenus. PROGRAMME RN CULTURE",
+    "Sentence": "$1A doit stopper sa carrière faute de revenus.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F116,F117,F118,F119",
     "Img": ""
   },
   "23N": {
-    "Sentence": "$1A doit stopper sa carrière faut de revenus. PROGRAMME EM CULTURE",
+    "Sentence": "$1A doit stopper sa carrière faute de revenus.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -864,7 +864,7 @@
     "Img": ""
   },
   "24N": {
-    "Sentence": "NFP jeux vidéo",
+    "Sentence": "C'est ainsi que $1A s'est retrouvé à créer ce jeu.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -873,16 +873,16 @@
     "Img": ""
   },
   "25N": {
-    "Sentence": "RN jeux vidéo",
+    "Sentence": "C'est aisni que $1A a contribué à la disparition des subventions publics accordées aux jeux indépendants et que le seul genre subventionné fut le FPS où on tire sur des personnages racisés.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F194,F195",
     "Img": ""
   },
   "26N": {
-    "Sentence": "LREM jeux vidéo",
+    "Sentence": "C'est ainsi que $1A s'es retrouvé à créer un jeu développé par IA rempli de NFT.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -891,16 +891,16 @@
     "Img": ""
   },
   "27N": {
-    "Sentence": "NFP Agri",
+    "Sentence": "$1a a voté pour la défense des petits producteurs.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F120,F121,F122,F123",
     "Img": ""
   },
   "28N": {
-    "Sentence": "RN Agri",
+    "Sentence": "$1a a voté pour les lobbys agricoles et l'agriculture industrielle.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -909,34 +909,34 @@
     "Img": ""
   },
   "29N": {
-    "Sentence": "LREM Agri",
+    "Sentence": "$1a a voté pour les lobbys agricoles et l'agriculture industrielle.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F124,F125",
     "Img": ""
   },
   "30N": {
-    "Sentence": "NFP Handicap",
+    "Sentence": "La société doit s'organiser pour permettre à toustes de vivre dignement !",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F126,F127,F128",
     "Img": ""
   },
   "31N": {
-    "Sentence": "RN Handicap",
+    "Sentence": "La société doit s'organiser pour permettre à toustes de vivre dignement !",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F129,F130",
     "Img": ""
   },
   "32N": {
-    "Sentence": "EM Handicap",
+    "Sentence": "La société doit s'organiser pour permettre à toustes de vivre dignement !",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -975,7 +975,7 @@
     "Sentence": "Le mieux quand on fait des jeux vidéo, c’est qu’on peut",
     "Words": "faire de notre travail un loisir,travailler 75h par semaine,se faire harceler par son patron",
     "Nb_Words": 3,
-    "Links": "9 N,9 N,9 N",
+    "Links": "9N,9N,9N",
     "Conditions": "",
     "Facts": "",
     "Img": ""
@@ -1044,7 +1044,7 @@
     "Img": ""
   },
   "4P": {
-    "Sentence": "MANGAS FRONT NATIONAL",
+    "Sentence": "Même les mangas sont menacés ! Le RN veut les virer du pass culture, pour privilégier des oeuvres qui sont idéologiquement compatible avec leur exercice du pouvoir. \nPour défendre Konoha, et une culture plurielle et décentrée, il faut voter pour le Nouveau Front Populaire.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -1121,7 +1121,7 @@
     "Nb_Words": 1,
     "Links": "5S",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F131,F132,F133,F134",
     "Img": ""
   },
   "3S": {
@@ -1134,7 +1134,7 @@
     "Img": ""
   },
   "5S": {
-    "Sentence": "NFP SPORT",
+    "Sentence": "Le sport, ça doit être bien plus qu'un spectacle, mais un moyen d'émancipation disponible pour toutes et tous équitablement.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -1161,19 +1161,19 @@
     "Img": ""
   },
   "4T": {
-    "Sentence": "Programme NFP culture et santé prévention alcoolisme",
+    "Sentence": "Pour conserver le statut d'intermittent, il faut voter pour le Nouveau Front Populaire.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F135",
     "Img": ""
   },
   "2U1": {
     "Sentence": "$1A elle a",
     "Words": "les yeux bleus,les yeux verts",
     "Nb_Words": 2,
-    "Links": "2U",
+    "Links": "2U,2U",
     "Conditions": "",
     "Facts": "",
     "Img": ""
@@ -1197,12 +1197,12 @@
     "Img": ""
   },
   "2U6": {
-    "Sentence": "Front national fondé par des fasciste",
+    "Sentence": "Le Rassemblement Nationale est un parti fondé par des anciens nazis, et encore aujourd'hui il perpétue l'héritage fasciste de ses débuts.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F136,F137",
     "Img": ""
   },
   "2U4": {
@@ -1215,12 +1215,12 @@
     "Img": ""
   },
   "2U5": {
-    "Sentence": "Front Populaire en 1936",
+    "Sentence": "En 1936, c'est le Front Populaire au pouvoir et dans la rue qui crée les fondements de la République sociale.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F138,F139,F140,F141",
     "Img": ""
   },
   "2U": {
@@ -1260,30 +1260,30 @@
     "Img": ""
   },
   "3U4": {
-    "Sentence": "Enseignement sup NFP",
+    "Sentence": "$1A a voté pour que l'éducation ne soit pas un privilège !",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F142,F143,F144,F145,F146,F147",
     "Img": ""
   },
   "3U5": {
-    "Sentence": "Enseignement sup RN",
+    "Sentence": "$1A a voté pour que les étudiant.es soient plus pauvres et précaires que jamais.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F148,F149,F150",
     "Img": ""
   },
   "3U6": {
-    "Sentence": "Enseignement sup EM",
+    "Sentence": "$1A a voté pour que les étudiant.es soient plus pauvres et précaires que jamais.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F151,F152,F153,F154,F155",
     "Img": ""
   },
   "4U1": {
@@ -1305,25 +1305,25 @@
     "Img": ""
   },
   "4U3": {
-    "Sentence": "Hopital NFP",
+    "Sentence": "Le Nouveau Front Populaire organise immédiatement un plan de sauvetage de l'hôpital.",
     "Words": "",
     "Nb_Words": 3,
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F156,F157,F158,F159,F160",
     "Img": ""
   },
   "4U4": {
-    "Sentence": "Hopital RN",
+    "Sentence": "Le RN a contribué a détruire l'hopital public, et compte bien l'enterrer une fois au pouvoir.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F161,F162",
     "Img": ""
   },
   "4U5": {
-    "Sentence": "Hopital EM",
+    "Sentence": "Macron s'est employé a détruire l'hopital public, et à instaurer des logiques de rentabilité au détriment des vies de nos proches malades.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -1335,7 +1335,7 @@
     "Sentence": "$1A aussi française que toi, mais un peu plus que",
     "Words": "son grand-père arménien qui s'est battu contre le nazisme,le père de Marine qui a torturé des civils pour le fascisme",
     "Nb_Words": 2,
-    "Links": "5U2",
+    "Links": "5U2,5U2",
     "Conditions": "",
     "Facts": "",
     "Img": ""
@@ -1350,7 +1350,7 @@
     "Img": ""
   },
   "5U3": {
-    "Sentence": "Elle vote pour NFP étrangers",
+    "Sentence": "Elle vote pour la reconnaissance de son droit à exister.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -1359,7 +1359,7 @@
     "Img": ""
   },
   "5U4": {
-    "Sentence": "Elle vote pour RN étrangers",
+    "Sentence": "Ce que veut le RN, c'est la déportation des bi-nationaux et la déchéance de nationalité pour toustes les bi-nationaux extra-européens. C'est la multiplication des violences infligées aux étrangers présents sur le territoire.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -1368,7 +1368,7 @@
     "Img": ""
   },
   "5U5": {
-    "Sentence": "Elle vote pour EM étrangers",
+    "Sentence": "Le bilan de Macron, c'est toujours plus de violence pour tous les étrangers présents sur le territoire français, c'est des milliers de morts en Méditerranée, et toujours plus de précarité administrative pour les procédures octroyant des VISA.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -1395,16 +1395,16 @@
     "Img": ""
   },
   "6U3": {
-    "Sentence": "NFP étrangers",
+    "Sentence": "Pour que $1A soit régularisée et que les étrangers cessent d'être percus comme des menaces.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F163,F164,F165,F166",
     "Img": ""
   },
   "6U4": {
-    "Sentence": "RN étrangers",
+    "Sentence": "Ce que veut le RN, c'est la déportation des bi-nationaux et la déchéance de nationalité pour toustes les bi-nationaux extra-européens. C'est la multiplication des violences infligées aux étrangers présents sur le territoire.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -1413,7 +1413,7 @@
     "Img": ""
   },
   "6U5": {
-    "Sentence": "EM étrangers",
+    "Sentence": "Le bilan de Macron, c'est toujours plus de violence pour tous les étrangers présents sur le territoire français, c'est des milliers de morts en Méditerranée, et toujours plus de précarité administrative pour les procédures octroyant des VISA.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -1440,16 +1440,16 @@
     "Img": ""
   },
   "7U3": {
-    "Sentence": "Racisme NFP",
+    "Sentence": "Le Nouveau Front Populaire essaye de traiter les problèmes du racisme et du colonialisme latents dans chaque partie de notre société.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F167,F168,F169,F170",
     "Img": ""
   },
   "7U4": {
-    "Sentence": "Racisme RN",
+    "Sentence": "Le RN est un parti raciste et xénophobe, à tendance fasciste, qui rêve de déporter et de laisser mourir femmes et enfants, des plages de Méditerranée aux camps de Calais.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -1458,7 +1458,7 @@
     "Img": ""
   },
   "7U5": {
-    "Sentence": "Racisme EM",
+    "Sentence": "Macron a perpétué les politiques racistes et xénophobes de répression des quartiers populaires, de harcèlement policiers des populations immigrantes.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
@@ -1476,30 +1476,30 @@
     "Img": ""
   },
   "8U2": {
-    "Sentence": "Comment faire du porte à porte",
+    "Sentence": "Le porte à porte, c'est l'action militante la plus efficace. En une soirée, on peut convaincre une dizaine de personnes par militant.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F171,F172,F173,F174,F175,F176,F177",
     "Img": ""
   },
   "8U3": {
-    "Sentence": "Comment tracter",
+    "Sentence": "Le tractage, c'est l'action idéale pour recruter ou s'entrainer.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F178,F179,F180,F181,F182",
     "Img": ""
   },
   "8U4": {
-    "Sentence": "Comment coller",
+    "Sentence": "Le collage, c'est toujours utile en attendant de se sentir prêt à aller au contact des autres.",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F183,F184,F185,F186,F187,F188",
     "Img": ""
   },
   "9U1": {
@@ -1530,12 +1530,12 @@
     "Img": ""
   },
   "9U4": {
-    "Sentence": "Programme NFP transports",
+    "Sentence": "Avec le Nouveau Front Populaire, tous les transports publics seront gratuits pour les précaires et les jeunes !",
     "Words": "",
     "Nb_Words": "",
     "Links": "",
     "Conditions": "",
-    "Facts": "",
+    "Facts": "F189,F190,F191,F192,F193",
     "Img": ""
   },
   "4Q1": {
@@ -1548,7 +1548,7 @@
     "Img": ""
   },
   "7A1": {
-    "Sentence": "$1A est",
+    "Sentence": "Mais $1A est",
     "Words": "pas vraiment un mec non plus",
     "Nb_Words": "",
     "Links": "3A1",
@@ -1557,7 +1557,7 @@
     "Img": ""
   },
   "7A2": {
-    "Sentence": "$1A est",
+    "Sentence": "Mais $1A est",
     "Words": "pas vraiment une meuf non plus",
     "Nb_Words": "",
     "Links": "3A1",
@@ -1635,6 +1635,24 @@
     "Links": "2I,2I",
     "Conditions": "",
     "Facts": "",
+    "Img": ""
+  },
+  "3L1": {
+    "Sentence": "$1A est",
+    "Words": "parti d'où il était venu,plutôt bien inspiré de ne pas se présenter",
+    "Nb_Words": 2,
+    "Links": "3L2,3L2",
+    "Conditions": "",
+    "Facts": "",
+    "Img": ""
+  },
+  "3L2": {
+    "Sentence": "Les violences sexistes et sexuelles sont diffuses en chaque partie de la société, du foyer aux institutions. Elles sont si généralisées et invisibilisées qu'elles nécessitent aujourd'hui un changement complet de paradigme, et une prise de cosncience générale autant qu'institutionnelle.",
+    "Words": "",
+    "Nb_Words": "",
+    "Links": "",
+    "Conditions": "",
+    "Facts": "F89,F90,F91,F92",
     "Img": ""
   }
 }
