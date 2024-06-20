@@ -31,6 +31,7 @@ func _on_mouse_entered():
 	if !mouse_on: return
 	if tween and tween.is_running(): tween.kill()
 	if !is_instance_valid(self) or !is_instance_valid(parent): return
+	#AudioManager.hover()
 	tween = create_tween()
 	tween.set_parallel()
 	tween.tween_property(parent,"position",base_pos-HOVER_OFFSET,0.15).set_trans(Tween.TRANS_CUBIC).set_ease(Tween.EASE_OUT)

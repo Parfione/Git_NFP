@@ -1,0 +1,41 @@
+[gd_scene load_steps=8 format=3 uid="uid://3hm5wjdsuck5"]
+
+[ext_resource type="Script" path="res://AudioManager.gd" id="1_1nmyr"]
+[ext_resource type="AudioStream" uid="uid://cby6cihapkmwg" path="res://Sounds/Delirant__.wav" id="2_6xxbd"]
+[ext_resource type="AudioStream" uid="uid://d4cicheawpess" path="res://Sounds/Background.wav" id="2_250ap"]
+[ext_resource type="AudioStream" uid="uid://b34u1nlkhcf4i" path="res://Sounds/UI_Valid.wav" id="2_gcfq5"]
+[ext_resource type="AudioStream" uid="uid://jr2qoq5orqu2" path="res://Sounds/Hover.wav" id="2_jgfl1"]
+[ext_resource type="AudioStream" uid="uid://3btau6q20px0" path="res://Sounds/Writing_end.wav" id="2_pqjqq"]
+[ext_resource type="AudioStream" uid="uid://c8athg2ond4c6" path="res://Sounds/UI_Back.wav" id="3_hvd7a"]
+
+[node name="AudioManager" type="Node"]
+script = ExtResource("1_1nmyr")
+
+[node name="Click" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("2_gcfq5")
+bus = &"SFX"
+
+[node name="Vote" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("3_hvd7a")
+volume_db = -5.0
+bus = &"SFX"
+
+[node name="Sample" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("2_6xxbd")
+volume_db = -15.0
+bus = &"SFX"
+
+[node name="Hover" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("2_jgfl1")
+bus = &"SFX"
+
+[node name="Typing" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("2_pqjqq")
+volume_db = -10.0
+bus = &"SFX"
+
+[node name="Music" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("2_250ap")
+volume_db = -80.0
+autoplay = true
+bus = &"Music"

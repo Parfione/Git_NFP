@@ -13,6 +13,14 @@ const LETTER_DURATION = 0.06
 @onready var center_sentence = %Center_Sentence
 @onready var fact_end = %FactEnd
 
+var tween : Tween
+
+func _input(event):
+	if event.is_action_pressed("Click"):
+		tween.set_speed_scale(3.0)
+	elif event.is_action_released("Click"):
+		tween.set_speed_scale(1.0)
+
 func create_fact(ID,fact_data):
 	var item = FACT_ITEM_SCENE.instantiate()
 	fact_container.add_child(item)
@@ -36,12 +44,14 @@ func init(sentence:String,data,fact_data):
 		read_sentence(center_sentence)
 
 func read_sentence(sentence_node):
-	var tween = create_tween()
+	tween = create_tween()
 	var sentence_duration = float(len(sentence_node.text))*LETTER_DURATION
+	#AudioManager.typing(sentence_duration)
 	tween.tween_property(sentence_node,"visible_ratio",1.0,sentence_duration).set_trans(Tween.TRANS_SINE).set_ease(Tween.EASE_IN_OUT)
 	
 
 func _on_new_run_button_up():
+	AudioManager.vote()
 	new_run.emit()
 	queue_free()
 	

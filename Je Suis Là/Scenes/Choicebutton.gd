@@ -31,4 +31,6 @@ func pick_link():
 
 
 func _on_button_up():
-	link_to.emit(pick_link(),label.text)
+	AudioManager.click()
+	if links:
+		link_to.emit(pick_link(),label.text)

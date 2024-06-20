@@ -1,0 +1,110 @@
+[gd_scene load_steps=5 format=3 uid="uid://cpy3q3i1pewxr"]
+
+[ext_resource type="Script" path="res://Scenes/finish.gd" id="1_0dlqd"]
+[ext_resource type="Texture2D" uid="uid://bdiwclawp4l8r" path="res://images/dessin5.png" id="1_ckde3"]
+[ext_resource type="Texture2D" uid="uid://bid2l7clssbe5" path="res://images/dessin_manif4_.png" id="2_u331u"]
+[ext_resource type="PackedScene" uid="uid://cidrmt6qgnjqu" path="res://Scenes/Choicebutton.tscn" id="3_dv37b"]
+
+[node name="Finish" type="Control"]
+z_index = 2
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_0dlqd")
+
+[node name="Background" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.980392, 0.933333, 0.807843, 1)
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+layout_mode = 0
+offset_top = 23.0
+offset_right = 1151.0
+offset_bottom = 363.0
+
+[node name="Finish_Sentence" type="RichTextLabel" parent="CenterContainer"]
+unique_name_in_owner = true
+modulate = Color(1, 0.386719, 0.447141, 1)
+clip_contents = false
+custom_minimum_size = Vector2(900, 0)
+layout_mode = 2
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.160784)
+theme_override_constants/shadow_offset_x = 2
+theme_override_constants/shadow_offset_y = 2
+theme_override_constants/shadow_outline_size = 6
+theme_override_font_sizes/normal_font_size = 50
+theme_override_font_sizes/bold_font_size = 84
+bbcode_enabled = true
+text = "[center][b]Les 30/06 et 07/07, on vote pour le Nouveau Front Populaire !"
+fit_content = true
+scroll_active = false
+autowrap_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="."]
+custom_minimum_size = Vector2(256, 256)
+layout_mode = 1
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -412.0
+offset_top = -420.0
+offset_right = 8.0
+grow_horizontal = 0
+grow_vertical = 0
+texture = ExtResource("1_ckde3")
+expand_mode = 2
+stretch_mode = 5
+
+[node name="TextureRect2" type="TextureRect" parent="."]
+custom_minimum_size = Vector2(256, 256)
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_top = -420.0
+offset_right = 420.0
+grow_vertical = 0
+texture = ExtResource("2_u331u")
+expand_mode = 2
+stretch_mode = 5
+
+[node name="CenterContainer2" type="CenterContainer" parent="."]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -113.0
+offset_top = -132.0
+offset_right = 187.0
+offset_bottom = -52.0
+grow_horizontal = 2
+grow_vertical = 0
+scale = Vector2(0.75, 0.75)
+
+[node name="ChoiceButton" parent="CenterContainer2" instance=ExtResource("3_dv37b")]
+layout_mode = 2
+
+[node name="PanelBG" parent="CenterContainer2/ChoiceButton" index="0"]
+self_modulate = Color(0.199219, 0.199219, 0.199219, 0.72549)
+
+[node name="Label" parent="CenterContainer2/ChoiceButton" index="1"]
+text = "Continuer"
+
+[node name="HoverHandler" parent="CenterContainer2/ChoiceButton" index="2"]
+HOVER_OFFSET = Vector2(0, 0)
+
+[connection signal="button_up" from="CenterContainer2/ChoiceButton" to="." method="_on_choice_button_button_up"]
+
+[editable path="CenterContainer2/ChoiceButton"]

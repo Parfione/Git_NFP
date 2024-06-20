@@ -4,10 +4,13 @@ const DATA_GM_PATH = "res://data/DATA_GM.json"
 const DATA_FACT_PATH = "res://data/DATA_FACT.json"
 const CHOICE_BUTTON_SCENE = preload("res://Scenes/Choicebutton.tscn")
 const END_SCENE = preload("res://Scenes/End.tscn")
+const FINISH = preload("res://Scenes/finish.tscn")
 
 const VOTE_TEXTURE = preload("res://images/vote_pattern.png")
 const CHARACTER_PATTERN = preload("res://images/character_pattern.png")
 const CHARACTER_PATTERN_SPEED = 0.1
+
+const NB_RUNS_PER_CYCLE = 15
 
 const LETTER_DURATION = 0.05
 const CHOICES_FADEIN_DURATION = 1.5
@@ -23,7 +26,9 @@ var data
 var fact_data
 var event_choices = {}
 var used_names = []
-var nb_runs
+var nb_runs = NB_RUNS_PER_CYCLE
+var max_nb_runs
+var nb_cycles = 0
 var current_event = "1A"
 
 @onready var progress_bar = %ProgressBar
@@ -38,9 +43,10 @@ var current_event = "1A"
 func _ready():
 	data = Utils.load_JSON(DATA_GM_PATH)
 	fact_data = Utils.load_JSON(DATA_FACT_PATH)
-	nb_runs = float(len(Array(data["1A"]["Words"].split(","))))
+	max_nb_runs = float(len(Array(data["1A"]["Words"].split(","))))
 	load_event(current_event)
 	
+
 
 func free_choices():
 	for choice in choices_container.get_children():
@@ -138,9 +144,30 @@ func new_run():
 	sentence.modulate = tmp_mod
 	character_pattern.material.set_shader_parameter("color",tmp_mod)
 	background.z_index = 1
-	await create_tween().tween_property(progress_bar,"value",float(len(used_names)) / nb_runs,1.5).set_trans(Tween.TRANS_CUBIC).set_ease(Tween.EASE_OUT).finished
+	var rate = float(len(used_names)-nb_cycles*NB_RUNS_PER_CYCLE) / NB_RUNS_PER_CYCLE
+	#var rate = float(len(used_names)) / (nb_runs)
+	AudioManager.BG_vol_rate(rate)
+	await create_tween().tween_property(progress_bar,"value",rate,1.5).set_trans(Tween.TRANS_CUBIC).set_ease(Tween.EASE_OUT).finished
+	if rate == 1.0 : return finish()
 	background.z_index = 0
 	load_event("1A")
 	character_pattern.texture = CHARACTER_PATTERN
 	character_pattern.material.set_shader_parameter("speed",CHARACTER_PATTERN_SPEED)
-	
+
+func restart():
+	nb_cycles += 1
+	if nb_runs == max_nb_runs:
+		used_names = []
+		nb_runs = NB_RUNS_PER_CYCLE
+		nb_cycles = 0
+	else:
+		nb_runs = min(nb_runs+NB_RUNS_PER_CYCLE,max_nb_runs)
+	progress_bar.value = 0.0
+	new_run()
+	pass
+
+func finish():
+	var finish_screen = FINISH.instantiate()
+	add_child(finish_screen)
+	finish_screen.restart.connect(restart)
+	AudioManager.sample()

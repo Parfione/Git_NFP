@@ -1,782 +1,998 @@
 {
-  "F1": {
-    "Fact": "Fact 1",
-    "Lien": "https://onepiece.fandom.com/fr/wiki/Gol_D._Roger"
+  "": {
+	"Fact": "- depuis 2017, Macron instrumentalise la télévision public pour en faire un organe de publicité à son bénéfice",
+	"Lien": ""
   },
-  "F2": {
-    "Fact": "Fact 2",
-    "Lien": "https://onepiece.fandom.com/fr/wiki/Gol_D._Roger"
-  },
-  "F3": {
-    "Fact": "Fact3",
-    "Lien": "https://onepiece.fandom.com/fr/wiki/Gol_D._Roger"
+  "F0": {
+	"Fact": "",
+	"Lien": ""
   },
   "F4": {
-    "Fact": "dans les 3 mois, le Nouveau Front Populaire :",
-    "Lien": ""
+	"Fact": "dans les 3 mois, le Nouveau Front Populaire :",
+	"Lien": ""
   },
   "F5": {
-    "Fact": "- Autorise le changement d’état-civil libre et gratuit devant un officier d’état civil",
-    "Lien": ""
+	"Fact": "- Autorise le changement d’état-civil libre et gratuit devant un officier d’état civil",
+	"Lien": ""
   },
   "F6": {
-    "Fact": "- Rend la PMA accessible aux personnes trans",
-    "Lien": ""
+	"Fact": "- Rend la PMA accessible aux personnes trans",
+	"Lien": ""
   },
   "F7": {
-    "Fact": "- Met en oeuvre d'un plan d'éradication des violences à l’encontre des personnes LGBTQI+",
-    "Lien": ""
+	"Fact": "- Met en oeuvre d'un plan d'éradication des violences à l’encontre des personnes LGBTQI+",
+	"Lien": ""
   },
   "F8": {
-    "Fact": "- Au parlement européen, les élus du RN votent contre l'interdiction des thérapies de conversion, supposée \"guérir de l'homosexualité\".",
-    "Lien": "https://www.mediapart.fr/journal/france/190422/derriere-la-dediabolisation-de-marine-le-pen-le-veritable-danger-du-rn-pour-les-lgbti"
+	"Fact": "- Au parlement européen, les élus du RN votent contre l'interdiction des thérapies de conversion, supposée \"guérir de l'homosexualité\".",
+	"Lien": "https://www.mediapart.fr/journal/france/190422/derriere-la-dediabolisation-de-marine-le-pen-le-veritable-danger-du-rn-pour-les-lgbti"
   },
   "F9": {
-    "Fact": "- Le soir même des élections européennes, le fils d'un cadre du RN a tabassé, ceinture et chaîne à la main, un passant. Il s'est justifié en disant qu'il voulait \"casser du PD\".",
-    "Lien": "https://tetu.com/2024/06/12/justice-condamnation-quatre-jeunes-extreme-droite-fans-bardella-agression-homophobe/"
+	"Fact": "- Le soir même des élections européennes, le fils d'un cadre du RN a tabassé, ceinture et chaîne à la main, un passant. Il s'est justifié en disant qu'il voulait \"casser du PD\".",
+	"Lien": "https://tetu.com/2024/06/12/justice-condamnation-quatre-jeunes-extreme-droite-fans-bardella-agression-homophobe/"
   },
   "F10": {
-    "Fact": "Macron a :",
-    "Lien": ""
+	"Fact": "Macron a :",
+	"Lien": ""
   },
   "F11": {
-    "Fact": "- interdit la PMA aux personnes trans",
-    "Lien": ""
+	"Fact": "- interdit la PMA aux personnes trans",
+	"Lien": ""
   },
   "F12": {
-    "Fact": "dans les 3 prochains mois :",
-    "Lien": ""
+	"Fact": "dans les 3 prochains mois :",
+	"Lien": ""
   },
   "F13": {
-    "Fact": "- l'égalité salariale sera instaurée",
-    "Lien": ""
+	"Fact": "- l'égalité salariale sera instaurée",
+	"Lien": ""
   },
   "F14": {
-    "Fact": "- un congé menstruel sera créé dans les entreprises et administrations",
-    "Lien": ""
+	"Fact": "- un congé menstruel sera créé dans les entreprises et administrations",
+	"Lien": ""
   },
   "F15": {
-    "Fact": "- prise en charge par la Sécurité sociale les protections menstruelles et sanctionner les fabricants qui ne respectent pas le contrôle sanitaire et la régulation des prix",
-    "Lien": ""
+	"Fact": "- prise en charge par la Sécurité sociale des protections menstruelles et sanctions des fabricants qui ne respectent pas le contrôle sanitaire et la régulation des prix",
+	"Lien": ""
   },
   "F16": {
-    "Fact": "- au parlement européen, les élus du RN votent contre la condamnation de l'interdiction de l'avortement.",
-    "Lien": ""
+	"Fact": "- au parlement européen, les élus du RN votent contre la condamnation de l'interdiction de l'avortement.",
+	"Lien": ""
   },
   "F17": {
-    "Fact": "- à l'assemblée nationale, c'est onze députés du RN qui votent contre la constitutionalisation de l'avortement",
-    "Lien": ""
+	"Fact": "- à l'assemblée nationale, c'est onze députés du RN qui votent contre la constitutionalisation de l'avortement",
+	"Lien": ""
   },
   "F18": {
-    "Fact": "- au parlement européen, les élus du RN votent contre l'instauration d'un salaire minimum, qui aurait pourtant bénéficié majoritairement aux femmes, bien moins payées que les hommes.",
-    "Lien": ""
+	"Fact": "- au parlement européen, les élus du RN votent contre l'instauration d'un salaire minimum, qui aurait pourtant bénéficié majoritairement aux femmes, bien moins payées que les hommes.",
+	"Lien": ""
   },
   "F19": {
-    "Fact": "15 jours après :",
-    "Lien": ""
+	"Fact": "15 jours après :",
+	"Lien": ""
   },
   "F20": {
-    "Fact": "- l'école sera intégralement gratuite pour toustes (cantine,fourniture,activités,transports)",
-    "Lien": ""
+	"Fact": "- l'école sera intégralement gratuite pour toustes (cantine,fourniture,activités,transports)",
+	"Lien": ""
   },
   "F21": {
-    "Fact": "dans les 3 prochains mois :",
-    "Lien": ""
+	"Fact": "dans les 3 prochains mois :",
+	"Lien": ""
   },
   "F22": {
-    "Fact": "- il y aura moins de 19 élèves par classe",
-    "Lien": ""
+	"Fact": "- il y aura moins de 19 élèves par classe",
+	"Lien": ""
   },
   "F23": {
-    "Fact": "- l'Education Nationale sera refinancée",
-    "Lien": ""
+	"Fact": "- l'Education Nationale sera refinancée",
+	"Lien": ""
   },
   "F24": {
-    "Fact": "Dans le programme du RN :",
-    "Lien": ""
+	"Fact": "Dans le programme du RN :",
+	"Lien": ""
   },
   "F25": {
-    "Fact": "- une orientation sélective dès le collège pour trier l'élite (les riches) du reste (les pauvres).",
-    "Lien": ""
+	"Fact": "- une orientation sélective dès le collège pour trier l'élite (les riches) du reste (les pauvres).",
+	"Lien": ""
   },
   "F26": {
-    "Fact": "- judiciarisation de l'ordre scolaire avec envoi devant les tribunaux des élèves dès les premiers troubles",
-    "Lien": ""
+	"Fact": "- judiciarisation de l'ordre scolaire avec envoi devant les tribunaux des élèves dès les premiers troubles",
+	"Lien": ""
   },
   "F27": {
-    "Fact": "- \"un accroissement du pouvoir de contrôle des corps d'inspection\" à même de \"signaler les cas problématiques et de donner des sanctions aux enseignants\".",
-    "Lien": ""
+	"Fact": "- \"un accroissement du pouvoir de contrôle des corps d'inspection\" à même de \"signaler les cas problématiques et de donner des sanctions aux enseignants\".",
+	"Lien": ""
   },
   "F28": {
-    "Fact": "- l'uniforme obligatoire",
-    "Lien": ""
+	"Fact": "- l'uniforme obligatoire",
+	"Lien": ""
   },
   "F29": {
-    "Fact": "Macron c'est :",
-    "Lien": ""
+	"Fact": "Macron c'est :",
+	"Lien": ""
   },
   "F30": {
-    "Fact": "- la destruction systématique de l'enseignement professionnel",
-    "Lien": ""
+	"Fact": "- la destruction systématique de l'enseignement professionnel",
+	"Lien": ""
   },
   "F31": {
-    "Fact": "- une sélection sociale qui explose à l'issue du cursus secondaire",
-    "Lien": ""
+	"Fact": "- une sélection sociale qui explose à l'issue du cursus secondaire",
+	"Lien": ""
   },
   "F32": {
-    "Fact": "- une réforme des lycées qui fait dépendre le bac des établissements dans lesquels il se prépare",
-    "Lien": ""
+	"Fact": "- une réforme des lycées qui fait dépendre le bac des établissements dans lesquels il se prépare",
+	"Lien": ""
   },
   "F33": {
-    "Fact": "Le conflit palestinien depuis le 7/10, c'est :",
-    "Lien": ""
+	"Fact": "Le conflit palestinien depuis le 7/10, c'est :",
+	"Lien": ""
   },
   "F34": {
-    "Fact": "- 39000 morts palestiniens",
-    "Lien": ""
+	"Fact": "- 39000 morts palestiniens",
+	"Lien": ""
   },
   "F35": {
-    "Fact": "- 1200 morts israéliens",
-    "Lien": ""
+	"Fact": "- 1200 morts israéliens",
+	"Lien": ""
   },
   "F36": {
-    "Fact": "- un génocide",
-    "Lien": ""
+	"Fact": "- 1 génocide",
+	"Lien": ""
   },
   "F37": {
-    "Fact": "Avec le Nouveau Front Populaire, en 15 jours c'est :",
-    "Lien": ""
+	"Fact": "Avec le Nouveau Front Populaire, en 15 jours c'est :",
+	"Lien": ""
   },
   "F38": {
-    "Fact": "-  une rupture immédiate du soutien du gouvernement français envers le gouvernement de Netanyahu pour imposer un cessez-le-feu imédiat à Gaza",
-    "Lien": ""
+	"Fact": "-  une rupture immédiate du soutien du gouvernement français envers le gouvernement de Netanyahu pour imposer un cessez-le-feu imédiat à Gaza",
+	"Lien": ""
   },
   "F39": {
-    "Fact": "- un embargo sur les livraisons d’armes à Israël",
-    "Lien": ""
+	"Fact": "- un embargo sur les livraisons d’armes à Israël",
+	"Lien": ""
   },
   "F40": {
-    "Fact": "- des sanctions économiques et diplomatiques contre le gouvernement de netanyahu",
-    "Lien": ""
+	"Fact": "- des sanctions économiques et diplomatiques contre le gouvernement de netanyahu",
+	"Lien": ""
   },
   "F41": {
-    "Fact": "- une délégation pour organiser la libération des otages",
-    "Lien": ""
+	"Fact": "- une délégation pour organiser la libération des otages",
+	"Lien": ""
   },
   "F42": {
-    "Fact": "Avec le Nouveau Front Populaire, en 15 jours c'est tout de suite :",
-    "Lien": ""
+	"Fact": "Avec le Nouveau Front Populaire, en 15 jours c'est tout de suite :",
+	"Lien": ""
   },
   "F43": {
-    "Fact": "- le déploiement d'une police de proximité, bienveillante, désarmée et formée",
-    "Lien": ""
+	"Fact": "- le déploiement d'une police de proximité, bienveillante, désarmée et formée",
+	"Lien": ""
   },
   "F44": {
-    "Fact": "- l'interdiction des armes mutilatrices utilisées par les forces de l'ordre (LBD, grenades, ...)",
-    "Lien": ""
+	"Fact": "- l'interdiction des armes mutilatrices utilisées par les forces de l'ordre (LBD, grenades, ...)",
+	"Lien": ""
   },
   "F45": {
-    "Fact": "Dans les 3 mois qui suivent :",
-    "Lien": ""
+	"Fact": "Dans les 3 mois qui suivent :",
+	"Lien": ""
   },
   "F46": {
-    "Fact": "- une refonte du parcours de recrutement et de formation des policiers",
-    "Lien": ""
+	"Fact": "- une refonte du parcours de recrutement et de formation des policiers",
+	"Lien": ""
   },
   "F47": {
-    "Fact": "- la création d'un réel organe de justice interne reliée à la Défenseure des droits",
-    "Lien": ""
+	"Fact": "- la création d'un réel organe de justice interne reliée à la Défenseure des droits",
+	"Lien": ""
   },
   "F48": {
-    "Fact": "- l'augmentation des moyens des polices spécialisées (judiciaire, technique, scientifique, etc.)",
-    "Lien": ""
+	"Fact": "- l'augmentation des moyens des polices spécialisées (judiciaire, technique, scientifique, etc.)",
+	"Lien": ""
   },
   "F49": {
-    "Fact": "Le Nouveau Front Populaire prévoit d'ici la fin de son mandat :",
-    "Lien": ""
+	"Fact": "Le Nouveau Front Populaire prévoit d'ici la fin de son mandat :",
+	"Lien": ""
   },
   "F50": {
-    "Fact": "- l'interdiction de créer de nouvelles fermes-usines",
-    "Lien": ""
+	"Fact": "- l'interdiction de créer de nouvelles fermes-usines",
+	"Lien": ""
   },
   "F51": {
-    "Fact": "- la création de nouvelles normes pour le bien-être animal",
-    "Lien": ""
+	"Fact": "- la création de nouvelles normes pour le bien-être animal",
+	"Lien": ""
   },
   "F52": {
-    "Fact": "- l'interdiction de l'élevage en cage",
-    "Lien": ""
+	"Fact": "- l'interdiction de l'élevage en cage",
+	"Lien": ""
   },
   "F53": {
-    "Fact": "Avec Macron, les conflits en Kanaky c'est :",
-    "Lien": ""
+	"Fact": "Avec Macron, les conflits en Kanaky c'est :",
+	"Lien": ""
   },
   "F54": {
-    "Fact": "- une gestion autoritaire et raciste qui détruit toute possibilité d'accord",
-    "Lien": ""
+	"Fact": "- une gestion autoritaire et raciste qui détruit toute possibilité d'accord",
+	"Lien": ""
   },
   "F55": {
-    "Fact": "- six morts !",
-    "Lien": ""
+	"Fact": "- six morts !",
+	"Lien": ""
   },
   "F56": {
-    "Fact": "Avec le Nouveau Front Populaire, en 15 jours c'est :",
-    "Lien": ""
+	"Fact": "Avec le Nouveau Front Populaire, en 15 jours c'est :",
+	"Lien": ""
   },
   "F57": {
-    "Fact": "- l'abandon du dégel du corps électoral de la Kanaky",
-    "Lien": ""
+	"Fact": "- l'abandon du dégel du corps électoral de la Kanaky",
+	"Lien": ""
   },
   "F58": {
-    "Fact": "- l'organisation d'un accord global en vue d'un processus de décolonisation et d'émancipation",
-    "Lien": ""
+	"Fact": "- l'organisation d'un accord global en vue d'un processus de décolonisation et d'émancipation",
+	"Lien": ""
   },
   "F59": {
-    "Fact": "Avec Macron, les conflits en Kanaky c'est :",
-    "Lien": ""
+	"Fact": "Avec Macron, les conflits en Kanaky c'est :",
+	"Lien": ""
   },
   "F60": {
-    "Fact": "- une gestion autoritaire et raciste qui détruit toute possibilité d'accord",
-    "Lien": ""
+	"Fact": "- une gestion autoritaire et raciste qui détruit toute possibilité d'accord",
+	"Lien": ""
   },
   "F61": {
-    "Fact": "- six morts !",
-    "Lien": ""
+	"Fact": "- six morts !",
+	"Lien": ""
   },
   "F62": {
-    "Fact": "Avec le soutien du RN, les conflits en Kanaky c'est :",
-    "Lien": ""
+	"Fact": "Avec le soutien du RN, les conflits en Kanaky c'est :",
+	"Lien": ""
   },
   "F63": {
-    "Fact": "- une gestion autoritaire et raciste qui détruit toute possibilité d'accord",
-    "Lien": ""
+	"Fact": "- une gestion autoritaire et raciste qui détruit toute possibilité d'accord",
+	"Lien": ""
   },
   "F64": {
-    "Fact": "- six morts !",
-    "Lien": ""
+	"Fact": "- six morts !",
+	"Lien": ""
   },
   "F65": {
-    "Fact": "Avec le Nouveau Front Populaire, en 15 jours c'est :",
-    "Lien": ""
+	"Fact": "Avec le Nouveau Front Populaire, en 15 jours c'est :",
+	"Lien": ""
   },
   "F66": {
-    "Fact": "- l'école intégralement gratuite pour toustes (cantine,fourniture,activités,transports)",
-    "Lien": ""
+	"Fact": "- l'école intégralement gratuite pour toustes (cantine,fourniture,activités,transports)",
+	"Lien": ""
   },
   "F67": {
-    "Fact": "dans les 3 prochains mois :",
-    "Lien": ""
+	"Fact": "dans les 3 prochains mois :",
+	"Lien": ""
   },
   "F68": {
-    "Fact": "- il y aura moins de 19 élèves par classe",
-    "Lien": ""
+	"Fact": "- il y aura moins de 19 élèves par classe",
+	"Lien": ""
   },
   "F69": {
-    "Fact": "- l'Education Nationale sera refinancée pour rénover les locaux, renforcer la médecine scolaire.",
-    "Lien": ""
+	"Fact": "- l'Education Nationale sera refinancée pour rénover les locaux, renforcer la médecine scolaire.",
+	"Lien": ""
   },
   "F70": {
-    "Fact": "- le respect des objectifs de mixité sociale",
-    "Lien": ""
+	"Fact": "- le respect des objectifs de mixité sociale",
+	"Lien": ""
   },
   "F71": {
-    "Fact": "- Le RN promet de protéger les grands propriétaires fonciers",
-    "Lien": ""
+	"Fact": "- Le RN promet de protéger les grands propriétaires fonciers",
+	"Lien": ""
   },
   "F72": {
-    "Fact": "- de nombreux milliardaires sont notoirement de grands propagandistes en faveur du RN",
-    "Lien": ""
+	"Fact": "- de nombreux milliardaires sont notoirement de grands propagandistes en faveur du RN",
+	"Lien": ""
   },
   "F73": {
-    "Fact": "Le RN a voté :",
-    "Lien": ""
+	"Fact": "Le RN a voté :",
+	"Lien": ""
   },
   "F74": {
-    "Fact": "- contre la revalorisation des salaires, des retraites et des APL",
-    "Lien": ""
+	"Fact": "- contre la revalorisation des salaires, des retraites et des APL",
+	"Lien": ""
   },
   "F75": {
-    "Fact": "- contre l'impôt sur la fortune",
-    "Lien": ""
+	"Fact": "- contre l'impôt sur la fortune",
+	"Lien": ""
   },
   "F76": {
-    "Fact": "Sous Macron :",
-    "Lien": ""
+	"Fact": "Sous Macron :",
+	"Lien": ""
   },
   "F77": {
-    "Fact": "- l'Impôt sur la fortune a été supprimé",
-    "Lien": ""
+	"Fact": "- l'Impôt sur la fortune a été supprimé",
+	"Lien": ""
   },
   "F78": {
-    "Fact": "- les 37 foyers les plus riches sont imposés à hauteur de 0,2% de leurs revenus",
-    "Lien": "https://www.ipp.eu/publication/16253/"
+	"Fact": "- les 37 foyers les plus riches sont imposés à hauteur de 0,2% de leurs revenus",
+	"Lien": "https://www.ipp.eu/publication/16253/"
   },
   "F79": {
-    "Fact": "- les plus riches sont toujours plus riches, et les pauvres toujours plus pauvres",
-    "Lien": ""
+	"Fact": "- les plus riches sont toujours plus riches, et les pauvres toujours plus pauvres",
+	"Lien": ""
   },
   "F80": {
-    "Fact": "Le Nouveau Front Populaire, dès les premiers mois :",
-    "Lien": ""
+	"Fact": "Le Nouveau Front Populaire, dès les premiers mois :",
+	"Lien": ""
   },
   "F81": {
-    "Fact": "- empêchera la concentration des industries culturelles et des médias dans les mains de quelques grand propriétaires",
-    "Lien": ""
+	"Fact": "- empêchera la concentration des industries culturelles et des médias dans les mains de quelques grand propriétaires",
+	"Lien": ""
   },
   "F82": {
-    "Fact": "- exclura des aides publiques les médias condamnés pour incitation à la haine",
-    "Lien": ""
+	"Fact": "- exclura des aides publiques les médias condamnés pour incitation à la haine",
+	"Lien": ""
   },
   "F83": {
-    "Fact": "- garantira la pérennité d'un service public de l'audiovisuel",
-    "Lien": ""
+	"Fact": "- garantira la pérennité d'un service public de l'audiovisuel",
+	"Lien": ""
   },
   "F84": {
-    "Fact": "- le RN prévoit de privatiser tous les services publics d'audiovisuel, les laissant aux mains des milliardaires",
-    "Lien": ""
+	"Fact": "- le RN prévoit de privatiser tous les services publics d'audiovisuel, les laissant aux mains des milliardaires",
+	"Lien": ""
   },
   "F85": {
-    "Fact": "- à l'Assemblée nationale, les députés RN ont voté pour la suppression de la redevance audiovisuelle",
-    "Lien": ""
+	"Fact": "- à l'Assemblée nationale, les députés RN ont voté pour la suppression de la redevance audiovisuelle",
+	"Lien": ""
   },
   "F86": {
-    "Fact": "- avec la bénédictiond du RN, Macron a organisé la ruine de l'audiovisuel public en supprimant tous ses revenus.",
-    "Lien": ""
+	"Fact": "- avec la bénédictiond du RN, Macron a organisé la ruine de l'audiovisuel public en supprimant tous ses revenus.",
+	"Lien": ""
   },
   "F87": {
-    "Fact": "- Macron a permis le laxisme systématique envers les média multi-condamnés pour incitations à la haine",
-    "Lien": ""
+	"Fact": "- Macron a permis le laxisme systématique envers les média multi-condamnés pour incitations à la haine",
+	"Lien": ""
   },
   "F88": {
-    "Fact": "- avant Gabriel Attal, c'est Pascale Praud qui fut informé le premier de la dissolution de l'Assemblée Nationale",
-    "Lien": ""
+	"Fact": "- avant Gabriel Attal, c'est Pascal Praud qui fut informé le premier de la dissolution de l'Assemblée Nationale",
+	"Lien": ""
   },
   "F89": {
-    "Fact": "Chaque année :",
-    "Lien": ""
+	"Fact": "Chaque année :",
+	"Lien": ""
   },
   "F90": {
-    "Fact": "- plus de 200 femmes sont tuées parce qu'elles sont des femmes",
-    "Lien": ""
+	"Fact": "- plus de 200 femmes sont tuées parce qu'elles sont des femmes",
+	"Lien": ""
   },
   "F91": {
-    "Fact": "- 321 000 femmes subissent des agressions",
-    "Lien": ""
+	"Fact": "- 321 000 femmes subissent des agressions",
+	"Lien": ""
   },
   "F92": {
-    "Fact": "- à peine 6% des victimes portent plainte",
-    "Lien": ""
+	"Fact": "- à peine 6% des victimes portent plainte",
+	"Lien": ""
   },
   "F93": {
-    "Fact": "- 24% des ménages détiennent 65% des logements",
-    "Lien": ""
-  },
-  "F94": {
-    "Fact": "",
-    "Lien": ""
+	"Fact": "- 24% des ménages détiennent 65% des logements",
+	"Lien": ""
   },
   "F95": {
-    "Fact": "Avec le Nouveau Front Populaire, dès les premiers jours, c'est :",
-    "Lien": ""
+	"Fact": "Avec le Nouveau Front Populaire, dès les premiers jours, c'est :",
+	"Lien": ""
   },
   "F96": {
-    "Fact": "- le lancement d'un plan massif de construction de logements sociaux accessibles et en bon état",
-    "Lien": ""
+	"Fact": "- le lancement d'un plan massif de construction de logements sociaux accessibles et en bon état",
+	"Lien": ""
   },
   "F97": {
-    "Fact": "- la création de places d'hébergement d'urgence",
-    "Lien": ""
+	"Fact": "- la création de places d'hébergement d'urgence",
+	"Lien": ""
   },
   "F98": {
-    "Fact": "- à l'Assemblée Nationale, le RN a voté contre le gel des prix des loyers",
-    "Lien": ""
+	"Fact": "- à l'Assemblée Nationale, le RN a voté contre le gel des prix des loyers",
+	"Lien": ""
   },
   "F99": {
-    "Fact": "- le RN au pouvoir, c'est l'exclusion des familles bi-nationales et étrangères des logements sociaux",
-    "Lien": ""
+	"Fact": "- le RN au pouvoir, c'est l'exclusion des familles bi-nationales et étrangères des logements sociaux",
+	"Lien": ""
   },
   "F100": {
-    "Fact": "- Macron a fait passé une loi qui prévoit des peines de prison pour les locataires qui n'arrivent plus à payer leur loyer",
-    "Lien": ""
+	"Fact": "- Macron a fait passé une loi qui prévoit des peines de prison pour les locataires qui n'arrivent plus à payer leur loyer",
+	"Lien": ""
   },
   "F101": {
-    "Fact": "- en 2023, les besoins en terme de constructions de logements étaient deux fois supérieurs au nombre de logements créés",
-    "Lien": ""
+	"Fact": "- en 2023, les besoins en terme de constructions de logements étaient deux fois supérieurs au nombre de logements créés",
+	"Lien": ""
   },
   "F102": {
-    "Fact": "- grâce à Macron, les normes de sécurité, de salubrité, et d'impact écologique et énergétique ont encore baissées",
-    "Lien": ""
+	"Fact": "- grâce à Macron, les normes de sécurité, de salubrité, et d'impact écologique et énergétique ont encore baissées",
+	"Lien": ""
   },
   "F103": {
-    "Fact": "- le NFP mettra en place une garantie d'autonomie indexée sur le seuil de pauvreté, accessible pour toutes et tous",
-    "Lien": ""
+	"Fact": "- le NFP mettra en place une garantie d'autonomie : 1200e/mois garantis pour toustes !",
+	"Lien": ""
   },
   "F104": {
-    "Fact": "- dès les 15 premiers jours, le blocage des prix sur tous les produits de première nécessité pour faire face à l'inflation et aux profits indécents qui en découlent",
-    "Lien": ""
+	"Fact": "- dès les 15 premiers jours, le blocage des prix sur tous les produits de première nécessité pour faire face à l'inflation et aux profits indécents qui en découlent",
+	"Lien": ""
   },
   "F105": {
-    "Fact": "- le revalorisation des APL à hauteur de 15%",
-    "Lien": ""
+	"Fact": "- le revalorisation des APL à hauteur de 15%",
+	"Lien": ""
   },
   "F106": {
-    "Fact": "- en 7 ans, la part de chômeurs qui bénéficient d'une aide a diminué de 30%",
-    "Lien": ""
+	"Fact": "- en 7 ans, la part de chômeurs qui bénéficient d'une aide a diminué de 30%",
+	"Lien": ""
   },
   "F107": {
-    "Fact": "- 30% des entreprises créées chaque année l'ont été grâce aux aides délivrées par Pôle Emploi. En visant à supprimer ces aides, Macron s'assure du déclin économique national.",
-    "Lien": ""
+	"Fact": "- 30% des entreprises créées chaque année l'ont été grâce aux aides délivrées par Pôle Emploi. En visant à supprimer ces aides, Macron s'assure du déclin économique national.",
+	"Lien": ""
   },
   "F108": {
-    "Fact": "- la réforme du RSA de Macron oblige les bénéficiaires à travailler sans toucher de salaires, alors même que des millions de chômeurs sont en demande d'emplois.",
-    "Lien": ""
+	"Fact": "- la réforme du RSA de Macron oblige les bénéficiaires à travailler sans toucher de salaires, alors même que des millions de chômeurs sont en demande d'emplois.",
+	"Lien": ""
   },
   "F109": {
-    "Fact": "Avec le NFP, c'est :",
-    "Lien": ""
+	"Fact": "Avec le NFP, c'est :",
+	"Lien": ""
   },
   "F110": {
-    "Fact": "- le conditionnement des aides aux entreprises au respect des normes environnementales, de la lutte contre les discrimination, et selon des critères sociaux",
-    "Lien": ""
+	"Fact": "- le conditionnement des aides aux entreprises au respect des normes environnementales, de la lutte contre les discrimination, et selon des critères sociaux",
+	"Lien": ""
   },
   "F111": {
-    "Fact": "- la redistribution des aides aux bénéfices des PME/TPE, en inscrivant les plus grandes entreprises dans des logiques de solidarité",
-    "Lien": ""
+	"Fact": "- la redistribution des aides aux bénéfices des PME/TPE, en inscrivant les plus grandes entreprises dans des logiques de solidarité",
+	"Lien": ""
   },
   "F112": {
-    "Fact": "- des aides à la création d'entreprise et le maintien des allocations du chômage comme levier de création et d'inventivité",
-    "Lien": ""
+	"Fact": "- des aides à la création d'entreprise et le maintien des allocations du chômage comme levier de création et d'inventivité",
+	"Lien": ""
   },
   "F113": {
-    "Fact": "Ce que propose le Nouveau Front Populaire :",
-    "Lien": ""
+	"Fact": "Ce que propose le Nouveau Front Populaire :",
+	"Lien": ""
   },
   "F114": {
-    "Fact": "- améliorer le régime des intermittents et aller vers la création d’un nouveau régime pour les artistes-auteurs",
-    "Lien": ""
+	"Fact": "- améliorer le régime des intermittents et aller vers la création d’un nouveau régime pour les artistes-auteurs",
+	"Lien": ""
   },
   "F115": {
-    "Fact": "- renforcer le budget consacré à l'art, la culture et la création",
-    "Lien": ""
+	"Fact": "- renforcer le budget consacré à l'art, la culture et la création",
+	"Lien": ""
   },
   "F116": {
-    "Fact": "- le RN veut supprimer le statut d'intermittent",
-    "Lien": ""
+	"Fact": "- le RN veut supprimer le statut d'intermittent",
+	"Lien": ""
   },
   "F117": {
-    "Fact": "- pour le RN, les mangas seraient exclus du pass culture !",
-    "Lien": ""
+	"Fact": "- pour le RN, les mangas seraient exclus du pass culture !",
+	"Lien": ""
   },
   "F118": {
-    "Fact": "- en privatisant tout l'audiovisuel public, le RN s'assure aussi du démantèlement des aides du CNC...",
-    "Lien": ""
+	"Fact": "- en privatisant tout l'audiovisuel public, le RN s'assure aussi du démantèlement des aides du CNC...",
+	"Lien": ""
   },
   "F119": {
-    "Fact": "- ... ainsi que du fléchage de ces aides aux projets idéologiquement compatibles avec leur exercice du pouvoir",
-    "Lien": ""
+	"Fact": "- ... ainsi que du fléchage de ces aides aux projets idéologiquement compatibles avec leur exercice du pouvoir",
+	"Lien": ""
   },
   "F120": {
-    "Fact": "Pour les agriculteurs et agricultrices, le NFP va :",
-    "Lien": ""
+	"Fact": "Pour les agriculteurs et agricultrices, le NFP va :",
+	"Lien": ""
+  },
+  "F1200": {
+	"Fact": "- soutenir et financer l'agricutlure biologique et les circuits locaux de production",
+	"Lien": ""
   },
   "F121": {
-    "Fact": "- annuler les accords de libre échange qui mettent les producteurs en concurrence déloyale",
-    "Lien": ""
+	"Fact": "- annuler les accords de libre échange qui mettent les producteurs en concurrence déloyale",
+	"Lien": ""
   },
   "F122": {
-    "Fact": "- établir un prix plancher et rémunérateur pour les agriculteurs",
-    "Lien": ""
+	"Fact": "- établir un prix plancher et rémunérateur pour les agriculteurs",
+	"Lien": ""
   },
   "F123": {
-    "Fact": "- taxer les superprofits des agro-industriels et de la grande distribution",
-    "Lien": ""
+	"Fact": "- taxer les superprofits des agro-industriels et de la grande distribution",
+	"Lien": ""
   },
   "F124": {
-    "Fact": "- le 10 juin, le gouvernement a publié un décret doublant les seuils autorisés des élevages intensifs",
-    "Lien": ""
+	"Fact": "- le 10 juin, le gouvernement a publié un décret doublant les seuils autorisés des élevages intensifs",
+	"Lien": ""
   },
   "F125": {
-    "Fact": "- au détriment de la santé des agriculteurs, et contre ses propres promesses de campagne, Macron a autorisé le glyphosate et encouragé l'usage intensif de pesticides",
-    "Lien": ""
+	"Fact": "- au détriment de la santé des agriculteurs, et contre ses propres promesses de campagne, Macron a autorisé le glyphosate et encouragé l'usage intensif de pesticides",
+	"Lien": ""
   },
   "F126": {
-    "Fact": "Dans 15 jours, le Nouveau Front Populaire est au pouvoir et met en place :",
-    "Lien": ""
+	"Fact": "Dans 15 jours, le Nouveau Front Populaire est au pouvoir et met en place :",
+	"Lien": ""
   },
   "F127": {
-    "Fact": "- un service public d'accompagnement des élèves en situation de handicap sera créé",
-    "Lien": ""
+	"Fact": "- un service public d'accompagnement des élèves en situation de handicap",
+	"Lien": ""
   },
   "F128": {
-    "Fact": "- l'AAH sera enfin au dessus du seuil de pauvreté, à 1600e/mois",
-    "Lien": ""
+	"Fact": "- une AAH enfin au dessus du seuil de pauvreté, à 1600e/mois",
+	"Lien": ""
   },
   "F129": {
-    "Fact": "- le RN a déjà décidé de refuser les quotas de personnes en situation de handicap dans les administrations",
-    "Lien": ""
+	"Fact": "- le RN a déjà décidé de refuser les quotas de personnes en situation de handicap dans les administrations",
+	"Lien": ""
   },
   "F130": {
-    "Fact": "- le programme du RN reste dans un flou approximatif concernant le handicap, n'avançant aucun nouveau budget et donc aucune avancée",
-    "Lien": ""
+	"Fact": "- le programme du RN reste dans un flou approximatif concernant le handicap, n'avançant aucun nouveau budget et donc aucune avancée",
+	"Lien": ""
   },
   "F131": {
-    "Fact": "- le NFP portera le budget du sport public à 1% du PIB",
-    "Lien": ""
+	"Fact": "- le NFP portera le budget du sport public à 1% du PIB",
+	"Lien": ""
   },
   "F132": {
-    "Fact": "- rénover et protéger les espaces sportifs de proximité",
-    "Lien": ""
+	"Fact": "- rénover et protéger les espaces sportifs de proximité",
+	"Lien": ""
   },
   "F133": {
-    "Fact": "- établir une solidarité entre les sportifs de haut niveau en leur assurant un revenu stable et continu",
-    "Lien": ""
+	"Fact": "- établir une solidarité entre les sportifs de haut niveau en leur assurant un revenu stable et continu",
+	"Lien": ""
   },
   "F134": {
-    "Fact": "- reconstruire l'égalité et la diversité dans les sports et les moyens alloués",
-    "Lien": ""
+	"Fact": "- reconstruire l'égalité et la diversité dans les sports et les moyens alloués",
+	"Lien": ""
   },
   "F135": {
-    "Fact": "- 10% des français consomment de l'alcool quotidiennement, dont 70% d'hommes",
-    "Lien": ""
+	"Fact": "- 10% des français consomment de l'alcool quotidiennement, dont 70% d'hommes",
+	"Lien": ""
   },
   "F136": {
-    "Fact": "- la majorité des fondateurs du RN étaient des tortionnaires et meutriers avérés",
-    "Lien": "https://x.com/DiscordGauche/status/1802719831793209592/photo/1"
+	"Fact": "- la majorité des fondateurs du RN étaient des tortionnaires et meutriers avérés",
+	"Lien": "https://x.com/DiscordGauche/status/1802719831793209592/photo/1"
   },
   "F137": {
-    "Fact": "- le RN continue à avoir des liens avec des groupuscules meurtriers et fascistes",
-    "Lien": ""
+	"Fact": "- le RN continue à avoir des liens avec des groupuscules meurtriers et fascistes",
+	"Lien": ""
   },
   "F138": {
-    "Fact": "En 1936, le Front Populaire crée dès son accès au pouvoir :",
-    "Lien": ""
+	"Fact": "En 1936, le Front Populaire crée dès son accès au pouvoir :",
+	"Lien": ""
   },
   "F139": {
-    "Fact": "- les congés payés",
-    "Lien": ""
+	"Fact": "- les congés payés",
+	"Lien": ""
   },
   "F140": {
-    "Fact": "- la semaine de 40 heures",
-    "Lien": ""
+	"Fact": "- la semaine de 40 heures",
+	"Lien": ""
   },
   "F141": {
-    "Fact": "- les instances démocratiques et syndicales au sein des entreprises",
-    "Lien": ""
+	"Fact": "- les instances démocratiques et syndicales au sein des entreprises",
+	"Lien": ""
   },
   "F142": {
-    "Fact": "La quasi totalité des étudiants vit sous le seuil de pauvreté.",
-    "Lien": ""
+	"Fact": "La quasi totalité des étudiants vit sous le seuil de pauvreté.",
+	"Lien": ""
   },
   "F143": {
-    "Fact": "La première cause d'échec dans les études, c'est le salariat étudiant.",
-    "Lien": ""
+	"Fact": "La première cause d'échec dans les études, c'est le salariat étudiant.",
+	"Lien": ""
   },
   "F144": {
-    "Fact": "Pour que tous et toutes puissent étudier, le Nouveau Front Populaire propose :",
-    "Lien": ""
+	"Fact": "Pour que tous et toutes puissent étudier, le Nouveau Front Populaire propose :",
+	"Lien": ""
   },
   "F145": {
-    "Fact": "- le repas CROUS à 1 euro",
-    "Lien": ""
+	"Fact": "- le repas CROUS à 1 euro",
+	"Lien": ""
   },
   "F146": {
-    "Fact": "- une bourse pour tous les étudiant.es",
-    "Lien": ""
+	"Fact": "- une bourse pour tous les étudiant.es",
+	"Lien": ""
   },
   "F147": {
-    "Fact": "- un réinvestissement majeur dans les universités",
-    "Lien": ""
+	"Fact": "- un réinvestissement majeur dans les universités",
+	"Lien": ""
   },
   "F148": {
-    "Fact": "- à l'Assemblée Nationale, le RN a voté contre la revalorisation des bourses étudiantes.",
-    "Lien": ""
+	"Fact": "- à l'Assemblée Nationale, le RN a voté contre la revalorisation des bourses étudiantes.",
+	"Lien": ""
   },
   "F149": {
-    "Fact": "- le RN soutient Parcoursup et veut encore augmenter les frais d'inscription pour tous les étudiants étrangers",
-    "Lien": ""
+	"Fact": "- le RN soutient Parcoursup et veut encore augmenter les frais d'inscription pour tous les étudiants étrangers",
+	"Lien": ""
   },
   "F150": {
-    "Fact": "- en augmentant la sélection dès le collège, le RN vise à rendre l'université accessible seulement par une poignée de privilégiés",
-    "Lien": ""
+	"Fact": "- en augmentant la sélection dès le collège, le RN vise à rendre l'université accessible seulement par une poignée de privilégiés",
+	"Lien": ""
   },
   "F151": {
-    "Fact": "Le bilan de Macron dans les universités, c'est :",
-    "Lien": ""
+	"Fact": "Le bilan de Macron dans les universités, c'est :",
+	"Lien": ""
   },
   "F152": {
-    "Fact": "- des queues interminables devant les banques alimentaires",
-    "Lien": ""
+	"Fact": "- des queues interminables devant les banques alimentaires",
+	"Lien": ""
   },
   "F153": {
-    "Fact": "- des étudiants morts de faim sur les campus universitaires",
-    "Lien": ""
+	"Fact": "- des étudiants morts de faim sur les campus universitaires",
+	"Lien": ""
   },
   "F154": {
-    "Fact": "- un désinvestissement colossal et une privatisation de la recherche au profit de grandes entreprises",
-    "Lien": ""
+	"Fact": "- un désinvestissement colossal et une privatisation de la recherche au profit de grandes entreprises",
+	"Lien": ""
   },
   "F155": {
-    "Fact": "- une sélection à l'entrée des universités, une barrière sociale et xénophobe qui parquent les étudiants dans des filières toujours plus surpeuplées.",
-    "Lien": ""
+	"Fact": "- une sélection à l'entrée des universités, une barrière sociale et xénophobe qui parquent les étudiants dans des filières toujours plus surpeuplées.",
+	"Lien": ""
   },
   "F156": {
-    "Fact": "Avec le Nouveau Front Populaire, dès les premiers jours, c'est :",
-    "Lien": ""
+	"Fact": "Avec le Nouveau Front Populaire, dès les premiers jours, c'est :",
+	"Lien": ""
   },
   "F157": {
-    "Fact": "- un plan de sauvetage de hopitaux et la créations de nouveaux lits pour désengorger les services déjà surchargés",
-    "Lien": ""
+	"Fact": "- un plan de sauvetage de hopitaux et la créations de nouveaux lits pour désengorger les services déjà surchargés",
+	"Lien": ""
   },
   "F158": {
-    "Fact": "- la revalorisation du travail de nuit et les weekends des personnels hospitaliers",
-    "Lien": ""
+	"Fact": "- la revalorisation du travail de nuit et les weekends des personnels hospitaliers",
+	"Lien": ""
   },
   "F159": {
-    "Fact": "- le recutement massif de professionnels du soin",
-    "Lien": ""
+	"Fact": "- le recutement massif de professionnels du soin",
+	"Lien": ""
   },
   "F160": {
-    "Fact": "- la régulation des installations dans les désert médicaux",
-    "Lien": ""
+	"Fact": "- la régulation des installations dans les désert médicaux",
+	"Lien": ""
   },
   "F161": {
-    "Fact": "- à l'assemblée Nationale, le RN a voté contre l'augmentation des moyens pour les hopitaux",
-    "Lien": ""
+	"Fact": "- à l'assemblée Nationale, le RN a voté contre l'augmentation des moyens pour les hopitaux",
+	"Lien": ""
   },
   "F162": {
-    "Fact": "- le RN prévoit la suppression totale de l'aide médicale d'urgence, dont les mineurs sont pourtant les premiers bénéficiaires",
-    "Lien": ""
+	"Fact": "- le RN prévoit la suppression totale de l'aide médicale d'urgence, dont les mineurs sont pourtant les premiers bénéficiaires",
+	"Lien": ""
   },
   "F163": {
-    "Fact": "Le NFP mettra en place :",
-    "Lien": ""
+	"Fact": "Le NFP mettra en place :",
+	"Lien": ""
   },
   "F164": {
-    "Fact": "- un parcours légal et contrôlé de l'immigration",
-    "Lien": ""
+	"Fact": "- un parcours légal et contrôlé de l'immigration",
+	"Lien": ""
   },
   "F165": {
-    "Fact": "- un accueil digne des populations migrantes",
-    "Lien": ""
+	"Fact": "- un accueil digne des populations migrantes",
+	"Lien": ""
   },
   "F166": {
-    "Fact": "- une aide médicale d'urgence sécurisée et un droit du sol intégral",
-    "Lien": ""
+	"Fact": "- une aide médicale d'urgence sécurisée et un droit du sol intégral",
+	"Lien": ""
   },
   "F167": {
-    "Fact": "Le Nouveau Front Populaire, une fois au pouvoir :",
-    "Lien": ""
+	"Fact": "Le Nouveau Front Populaire, une fois au pouvoir :",
+	"Lien": ""
   },
   "F168": {
-    "Fact": "- interdira les contrôles au facies",
-    "Lien": ""
+	"Fact": "- interdira les contrôles au facies",
+	"Lien": ""
   },
   "F169": {
-    "Fact": "- mettra en place des récipissés de contrôle pour interdire les acharnements racistes",
-    "Lien": ""
+	"Fact": "- mettra en place des récipissés de contrôle pour interdire les acharnements racistes",
+	"Lien": ""
   },
   "F170": {
-    "Fact": "- instaurera un jour férié national de commémoration des victimes de l'esclavage",
-    "Lien": ""
+	"Fact": "- instaurera un jour férié national de commémoration des victimes de l'esclavage",
+	"Lien": ""
   },
   "F171": {
-    "Fact": "Pour faire un porte à porte :",
-    "Lien": ""
+	"Fact": "Pour faire un porte à porte :",
+	"Lien": ""
   },
   "F172": {
-    "Fact": "- on prépare un argumentaire entre amis en sélectionnant nos points du programme préférés",
-    "Lien": ""
+	"Fact": "- on prépare un argumentaire entre amis en sélectionnant nos points du programme préférés",
+	"Lien": ""
   },
   "F173": {
-    "Fact": "- on sonne à tous les interphones des immeubles jusqu'à ce qu'on nous ouvre.",
-    "Lien": ""
+	"Fact": "- on sonne à tous les interphones des immeubles jusqu'à ce qu'on nous ouvre.",
+	"Lien": ""
   },
   "F174": {
-    "Fact": "- on se réparti les étages, sans jamais être moins de 2 par étage.",
-    "Lien": ""
+	"Fact": "- on se réparti les étages, sans jamais être moins de 2 par étage.",
+	"Lien": ""
   },
   "F175": {
-    "Fact": "- on prend le temps d'écouter nos interlocuteurs avant de leur imposer des discours.",
-    "Lien": ""
+	"Fact": "- on prend le temps d'écouter nos interlocuteurs avant de leur imposer des discours.",
+	"Lien": ""
   },
   "F176": {
-    "Fact": "- on convainc en gardant le sourir",
-    "Lien": ""
+	"Fact": "- on convainc en gardant le sourir",
+	"Lien": ""
   },
   "F177": {
-    "Fact": "À répéter tous les jours de 18h à 20h, et tout le weekend.",
-    "Lien": ""
+	"Fact": "À répéter tous les jours de 18h à 20h, et tout le weekend.",
+	"Lien": ""
   },
   "F178": {
-    "Fact": "Pour organiser un tractage :",
-    "Lien": ""
+	"Fact": "Pour organiser un tractage :",
+	"Lien": ""
   },
   "F179": {
-    "Fact": "- on contacte une section locale d'un parti ou d'un syndicat membre du NFP",
-    "Lien": ""
+	"Fact": "- on contacte une section locale d'un parti ou d'un syndicat membre du NFP",
+	"Lien": ""
   },
   "F180": {
-    "Fact": "- on récupère 500 tracts par heure de tractage",
-    "Lien": ""
+	"Fact": "- on récupère 500 tracts par heure de tractage",
+	"Lien": ""
   },
   "F181": {
-    "Fact": "- on choisit quelques slogans à dire au moment de donner le tract",
-    "Lien": ""
+	"Fact": "- on choisit quelques slogans à dire au moment de donner le tract",
+	"Lien": ""
   },
   "F182": {
-    "Fact": "- on essaye d'arrêter les passants le temps de discuter des élections et de les convaincre de convaincre à leur tour",
-    "Lien": ""
+	"Fact": "- on essaye d'arrêter les passants le temps de discuter des élections et de les convaincre de convaincre à leur tour",
+	"Lien": ""
   },
   "F183": {
-    "Fact": "Pour faire un collage :",
-    "Lien": ""
+	"Fact": "Pour faire un collage :",
+	"Lien": ""
   },
   "F184": {
-    "Fact": "- on contacte une section locale d'un parti ou d'un syndicat membre du NFP",
-    "Lien": ""
+	"Fact": "- on contacte une section locale d'un parti ou d'un syndicat membre du NFP",
+	"Lien": ""
   },
   "F185": {
-    "Fact": "- on récupère 50 affiches heure de collage",
-    "Lien": ""
+	"Fact": "- on récupère 50 affiches heure de collage",
+	"Lien": ""
   },
   "F186": {
-    "Fact": "- on repère ou on demande les spots d'affichage utilisés localement",
-    "Lien": ""
+	"Fact": "- on repère ou on demande les spots d'affichage utilisés localement",
+	"Lien": ""
   },
   "F187": {
-    "Fact": "- on achète de la colle à papier peint premier prix et quelques balayettes et balais pour faire office de pinceaux",
-    "Lien": ""
+	"Fact": "- on achète de la colle à papier peint premier prix et quelques balayettes et balais pour faire office de pinceaux",
+	"Lien": ""
   },
   "F188": {
-    "Fact": "- on circule en voiture ou à vélo, si possible jamais à moins de deux",
-    "Lien": ""
+	"Fact": "- on circule en voiture ou à vélo, si possible jamais à moins de deux",
+	"Lien": ""
   },
   "F189": {
-    "Fact": "Le Nouveau Front Populaire, une fois au pouvoir :",
-    "Lien": ""
+	"Fact": "Le Nouveau Front Populaire, une fois au pouvoir :",
+	"Lien": ""
   },
   "F190": {
-    "Fact": "- c'est un pôle unique et publique de gestion des autoroutes françaises",
-    "Lien": ""
+	"Fact": "- c'est un pôle unique et publique de gestion des autoroutes françaises",
+	"Lien": ""
   },
   "F191": {
-    "Fact": "- c'est la baisse immédiate des prix de tous les transports publics",
-    "Lien": ""
+	"Fact": "- c'est la baisse immédiate des prix de tous les transports publics",
+	"Lien": ""
   },
   "F192": {
-    "Fact": "- c'est la réouverture de lignes ferroviaires fermées par Macron",
-    "Lien": ""
+	"Fact": "- c'est la réouverture de lignes ferroviaires fermées par Macron",
+	"Lien": ""
   },
   "F193": {
-    "Fact": "- un plan massif de protection des abribus",
-    "Lien": ""
+	"Fact": "- un plan massif de protection des abribus",
+	"Lien": ""
   },
   "F194": {
-    "Fact": "- Le RN a déclaré vouloir ne subventionner que les oeuvres qui assurent la promotion et la diffusion de la cutlure française",
-    "Lien": ""
+	"Fact": "- Le RN a déclaré vouloir ne subventionner que les oeuvres qui assurent la promotion et la diffusion de la cutlure française",
+	"Lien": ""
   },
   "F195": {
-    "Fact": "- !!!!",
-    "Lien": ""
+	"Fact": "- !!!!",
+	"Lien": ""
+  },
+  "F196": {
+	"Fact": "- plusieurs témoins assurent avoir aperçu un fantôme rouler en Harley Davidson aux alentours de l'Elysée",
+	"Lien": ""
+  },
+  "F197": {
+	"Fact": "- ce fantôme maudirait tous ceux qui l'aperçoient, à moins qu'ils aient l'envie d'avoir l'envie de voter pour le Nouveau Front Populaire",
+	"Lien": ""
+  },
+  "F198": {
+	"Fact": "- il se raconte qu'il ne saura rester en repos tant qu'il n'aura pas mis un terme à tous les paradis fiscaux de la planète",
+	"Lien": ""
+  },
+  "F199": {
+	"Fact": "Le NFP mettra en place :",
+	"Lien": ""
+  },
+  "F200": {
+	"Fact": "- l'égalité salariale immédiate en revalorisant les salaires des femmes",
+	"Lien": ""
+  },
+  "F201": {
+	"Fact": "- un congé menstruel dans les entreprises et administrations",
+	"Lien": ""
+  },
+  "F202": {
+	"Fact": "- une loi intégrale pour lutter contre les violences sexistes et sexuelles et budget de 2,6 milliards d’euros",
+	"Lien": ""
+  },
+  "F203": {
+	"Fact": "- la prise en charge par la Sécurité sociale des protections menstruelles",
+	"Lien": ""
+  },
+  "F204": {
+	"Fact": "- au parlement européen, les élus du RN votent contre la condamnation de l'interdiction de l'avortement.",
+	"Lien": ""
+  },
+  "F205": {
+	"Fact": "- à l'assemblée nationale, c'est onze députés du RN qui votent contre la constitutionalisation de l'avortement",
+	"Lien": ""
+  },
+  "F206": {
+	"Fact": "- au parlement européen, les élus du RN votent contre l'instauration d'un salaire minimum, qui aurait pourtant bénéficié majoritairement aux femmes, bien moins payées que les hommes.",
+	"Lien": ""
+  },
+  "F207": {
+	"Fact": "- le RN refuse de rembourser les soins du cancer du sein",
+	"Lien": ""
+  },
+  "F208": {
+	"Fact": "- le 18/06, Macron espère faire un coup de com' et décrit les procédures de changement de genre comme \"ubuesque",
+	"Lien": "https://www.leparisien.fr/politique/completement-ubuesque-macron-denonce-la-proposition-de-la-gauche-dautoriser-les-changements-de-sexe-en-mairie-18-06-2024-FGYD6UPN3ZHXJFN2QAURV2LFFQ.php"
+  },
+  "F209": {
+	"Fact": "Avec le Nouveau Front Populaire, dès les premiers jours, c'est :",
+	"Lien": ""
+  },
+  "F210": {
+	"Fact": "- la création d'un Pass'Sport à 150 euros",
+	"Lien": ""
+  },
+  "F211": {
+	"Fact": "- le NFP portera le budget du sport public à 1% du PIB",
+	"Lien": ""
+  },
+  "F212": {
+	"Fact": "- rénovera et protégera les espaces sportifs de proximité",
+	"Lien": ""
+  },
+  "F213": {
+	"Fact": "- établira une solidarité entre les sportifs de haut niveau en leur assurant un revenu stable et continu",
+	"Lien": ""
+  },
+  "F214": {
+	"Fact": "Le NFP au pouvoir, c'est :",
+	"Lien": ""
+  },
+  "F215": {
+	"Fact": "- le développement massif des énergies marines",
+	"Lien": ""
+  },
+  "F216": {
+	"Fact": "- la suspension de l'exploitation minière des fonds marins",
+	"Lien": ""
+  },
+  "F217": {
+	"Fact": "- l'interdiction du chalutage dans toutes les aires marines protégées",
+	"Lien": ""
+  },
+  "F218": {
+	"Fact": "À l'Assemblée Nationale, le RN a voté :",
+	"Lien": ""
+  },
+  "F219": {
+	"Fact": "- contre le soutien financier à destination des agriculteurs en bio",
+	"Lien": ""
+  },
+  "F220": {
+	"Fact": "- contre une loi garantissant à tous les agriculteurs un revenu stable",
+	"Lien": ""
+  },
+  "F221": {
+	"Fact": "- contre la transition agricole et écologique",
+	"Lien": ""
+  },
+  "F222": {
+	"Fact": "Le Nouveau Front Populaire au pouvoir, en 15 jours c'est :",
+	"Lien": "https://bloomassociation.org/wp-content/uploads/2024/06/V12-LE-FRONT-POPULAIRE-NOTRE-SEULE-VOIE-POUR-LOCEAN-ET-LE-CLIMAT.pdf"
+  },
+  "F223": {
+	"Fact": "- la suspension des méga-bassines et des grands projets autoroutiers",
+	"Lien": ""
+  },
+  "F224": {
+	"Fact": "- la nationalisation de tous les acteurs du circuit de l'eau",
+	"Lien": ""
+  },
+  "F225": {
+	"Fact": "Les 100 jours suivants, c'est :",
+	"Lien": ""
+  },
+  "F226": {
+	"Fact": "- le financement de l'isolation de tous les logements",
+	"Lien": ""
+  },
+  "F227": {
+	"Fact": "- la protection des zones naturelles, maritimes et forestières",
+	"Lien": ""
+  },
+  "F228": {
+	"Fact": "- une réduction de tous les billets de train et un réinvestissement dans le transport ferroviaire",
+	"Lien": ""
+  },
+  "F229": {
+	"Fact": "À l'Assemblée Nationale, le RN a voté :",
+	"Lien": "https://bloomassociation.org/wp-content/uploads/2024/06/V12-LE-FRONT-POPULAIRE-NOTRE-SEULE-VOIE-POUR-LOCEAN-ET-LE-CLIMAT.pdf"
+  },
+  "F230": {
+	"Fact": "- contre la fin des financements des projets nuisibles à l'environnement",
+	"Lien": ""
+  },
+  "F231": {
+	"Fact": "- contre l'augmentation de la part de l'énergie produite à partir de sources\nrenouvelables",
+	"Lien": ""
+  },
+  "F232": {
+	"Fact": "- contre la limitation de l'usage des polluants éternels",
+	"Lien": ""
+  },
+  "F233": {
+	"Fact": "Macron c'est :",
+	"Lien": ""
+  },
+  "F234": {
+	"Fact": "- la défiscalisation des jets et yachts privés",
+	"Lien": ""
+  },
+  "F235": {
+	"Fact": "- le soutien aux grands projets pétroliers, autoroutiers et à l'agriculture industrielle",
+	"Lien": ""
+  },
+  "F236": {
+	"Fact": "- la création de méga-bassines qui concentrent l'eau et empêchent le renouvellement des nappes",
+	"Lien": ""
+  },
+  "F237": {
+	"Fact": "- l'échec de tous les objectifs fixés par les processus internationaux",
+	"Lien": "https://www.greenpeace.fr/ecologie-et-climat-le-bilan-catastrophe-de-macron/"
+  },
+  "F238": {
+	"Fact": "- aujourd'hui, il fait en moyenne 1,1°C de plus qu'il y a 100 ans",
+	"Lien": ""
+  },
+  "F239": {
+	"Fact": "- on est désormais dans l'incapacité d'empêcher une hausse de 2,2°C dans les prochaines années",
+	"Lien": ""
+  },
+  "F240": {
+	"Fact": "- chaque année, la hausse du niveau de la mer est de 3,7 mm",
+	"Lien": ""
+  },
+  "F241": {
+	"Fact": "- plus de 3 milliards de personnes vivent dans une situation de vulnérabilité extrême face au changement climatique",
+	"Lien": ""
+  },
+  "F242": {
+	"Fact": "Le Nouveau Front Populaire au pouvoir, c'est :",
+	"Lien": ""
+  },
+  "F243": {
+	"Fact": "- la proportionnelle pour une meilleure répartition des voix envers tous les partis politiques, même les plus petits",
+	"Lien": ""
+  },
+  "F244": {
+	"Fact": "- la décentralisation des institutions en faveur d'une démocratie locale",
+	"Lien": ""
+  },
+  "F245": {
+	"Fact": "- l'abrogation du 49.3",
+	"Lien": ""
+  },
+  "F246": {
+	"Fact": "- l'instauration du Référendum d'Initiative Citoyenne",
+	"Lien": ""
+  },
+  "F247": {
+	"Fact": "- une assemblée constituante pour rédiger collectivement une nouvelle constitution",
+	"Lien": ""
+  },
+  "F248": {
+	"Fact": "- chaque année, 41000 décés sont directement attribuables à la consommation d'alcool",
+	"Lien": ""
+  },
+  "F249": {
+	"Fact": "- la consommation chronique d’alcool est associée à une altération des systèmes neuronaux et augmente les risques de démence",
+	"Lien": ""
+  },
+  "F250": {
+	"Fact": "- Macron a voté contre un réinvestissement dans l'agriculture biologique",
+	"Lien": ""
   }
 }
